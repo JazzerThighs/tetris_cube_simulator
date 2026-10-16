@@ -1,0 +1,3400 @@
+ROOT 77451
+identities=JZLSOT
+bag=JLOSTZ
+score=012222
+candidate_count=1390
+
+TRANSITION
+target_line=12908
+target_rotation=13
+target_identities=JTZZZZ
+target_bag=JTZZZZ
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=B2 U2 B2 D B2 D' R2 U' R' D2 U2 L' D' B2 D' R2
+MOVE 77451 12908 13 B2 U2 B2 D B2 D' R2 U' R' D2 U2 L' D' B2 D' R2
+
+TRANSITION
+target_line=12909
+target_rotation=13
+target_identities=JTSSSS
+target_bag=JSSSST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=R2 D2 R2 F2 L' D2 F2 U2 R B2 U' L2 D L' F2 U2 B2 R'
+MOVE 77451 12909 13 R2 D2 R2 F2 L' D2 F2 U2 R B2 U' L2 D L' F2 U2 B2 R'
+
+TRANSITION
+target_line=12910
+target_rotation=13
+target_identities=TSSZZL
+target_bag=LSSTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=B L2 U2 B' U2 F U2 L2 B R2 D R' D U' R' U' R2 B' R
+MOVE 77451 12910 13 B L2 U2 B' U2 F U2 L2 B R2 D R' D U' R' U' R2 B' R
+
+TRANSITION
+target_line=12915
+target_rotation=13
+target_identities=TLZZZZ
+target_bag=LTZZZZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=D' B2 U B2 U' B2 F2 U2 F2 U' R D2 U2 L' B2 D' R2
+MOVE 77451 12915 13 D' B2 U B2 U' B2 F2 U2 F2 U' R D2 U2 L' B2 D' R2
+
+TRANSITION
+target_line=12916
+target_rotation=13
+target_identities=TLSSSS
+target_bag=LSSSST
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=U2 B' D2 L2 B D2 B' R2 U2 F' D R' U F2 D' L' D' F2 U2
+MOVE 77451 12916 13 U2 B' D2 L2 B D2 B' R2 U2 F' D R' U F2 D' L' D' F2 U2
+
+TRANSITION
+target_line=12922
+target_rotation=12
+target_identities=JSSZZT
+target_bag=JSSTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=F U2 F U2 R2 B2 F' L2 F' L2 R' U2 R' F2 D' U2 F2 U2 L U
+MOVE 77451 12922 12 F U2 F U2 R2 B2 F' L2 F' L2 R' U2 R' F2 D' U2 F2 U2 L U
+
+TRANSITION
+target_line=14462
+target_rotation=13
+target_identities=TLSJSS
+target_bag=JLSSST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=F2 U B2 L2 D B2 D' L2 U F2 L' B2 F2 R' D2 U B2 D
+MOVE 77451 14462 13 F2 U B2 L2 D B2 D' L2 U F2 L' B2 F2 R' D2 U B2 D
+
+TRANSITION
+target_line=14463
+target_rotation=1
+target_identities=JZJTSS
+target_bag=JJSSTZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=L2 U2 L2 B L2 B2 F R2 B R2 U' R' D' R' U2 F' D F' U2
+MOVE 77451 14463 1 L2 U2 L2 B L2 B2 F R2 B R2 U' R' D' R' U2 F' D F' U2
+
+TRANSITION
+target_line=14570
+target_rotation=13
+target_identities=TLSJSS
+target_bag=JLSSST
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=F2 L D2 U2 L2 U2 L U2 B2 R D R' U' R' F2 D' L' D' F2
+MOVE 77451 14570 13 F2 L D2 U2 L2 U2 L U2 B2 R D R' U' R' F2 D' L' D' F2
+
+TRANSITION
+target_line=14571
+target_rotation=13
+target_identities=TLZZZL
+target_bag=LLTZZZ
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=U' B2 R U2 D2 L' U' B2 R2 U2 L2 D L2 U' R2 D'
+MOVE 77451 14571 13 U' B2 R U2 D2 L' U' B2 R2 U2 L2 D L2 U' R2 D'
+
+TRANSITION
+target_line=14626
+target_rotation=4
+target_identities=JZTZLZ
+target_bag=JLTZZZ
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=L2 B2 D2 B' F' L2 D2 B' F' R2 D L' D2 U2 L2 R' U' R2 F2 U'
+MOVE 77451 14626 4 L2 B2 D2 B' F' L2 D2 B' F' R2 D L' D2 U2 L2 R' U' R2 F2 U'
+
+TRANSITION
+target_line=14627
+target_rotation=13
+target_identities=TZLLSZ
+target_bag=LLSTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=L2 B2 F2 D' F2 D' F2 U R2 U2 L' F2 U2 B2 R' D' U'
+MOVE 77451 14627 13 L2 B2 F2 D' F2 D' F2 U R2 U2 L' F2 U2 B2 R' D' U'
+
+TRANSITION
+target_line=14628
+target_rotation=13
+target_identities=JTZZZL
+target_bag=JLTZZZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=U2 L2 D' R' L2 D' F2 B2 U' D2 L' U2 R B2 D2 B2 L' B2 U2
+MOVE 77451 14628 13 U2 L2 D' R' L2 D' F2 B2 U' D2 L' U2 R B2 D2 B2 L' B2 U2
+
+TRANSITION
+target_line=14629
+target_rotation=0
+target_identities=JZLZST
+target_bag=JLSTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=R2 D' R2 U' F2 D L2 R2 D U' L D2 U2 R' B2 U' R2 U'
+MOVE 77451 14629 0 R2 D' R2 U' F2 D L2 R2 D U' L D2 U2 R' B2 U' R2 U'
+
+TRANSITION
+target_line=14630
+target_rotation=13
+target_identities=TSSZLL
+target_bag=LLSSTZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=F2 U' F2 D L2 D2 R2 U L2 D' R B2 F2 L F2 U' B2 U'
+MOVE 77451 14630 13 F2 U' F2 D L2 D2 R2 U L2 D' R B2 F2 L F2 U' B2 U'
+
+TRANSITION
+target_line=14631
+target_rotation=13
+target_identities=TSSZLL
+target_bag=LLSSTZ
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=L2 F2 R B2 R2 B2 L2 F2 U' F R' B2 R F' U R'
+MOVE 77451 14631 13 L2 F2 R B2 R2 B2 L2 F2 U' F R' B2 R F' U R'
+
+TRANSITION
+target_line=14659
+target_rotation=13
+target_identities=JTSJSS
+target_bag=JJSSST
+target_one_of_each=false
+cross_bag=true
+move_count=15
+moves=L2 U2 R2 D' B2 D B2 D' F2 L' B2 F2 R' B2 U
+MOVE 77451 14659 13 L2 U2 R2 D' B2 D B2 D' F2 L' B2 F2 R' B2 U
+
+TRANSITION
+target_line=14699
+target_rotation=12
+target_identities=JSZZJT
+target_bag=JJSTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=D2 U2 F U2 B' D2 B2 F' U2 B' R F U' R U' F' U R D'
+MOVE 77451 14699 12 D2 U2 F U2 B' D2 B2 F' U2 B' R F U' R U' F' U R D'
+
+TRANSITION
+target_line=14700
+target_rotation=5
+target_identities=JZJSZT
+target_bag=JJSTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=U' L D' R U' L' D L U' D2 L' F2 L U2 L' D2 R D2 F2
+MOVE 77451 14700 5 U' L D' R U' L' D L U' D2 L' F2 L U2 L' D2 R D2 F2
+
+TRANSITION
+target_line=14701
+target_rotation=13
+target_identities=TZSJSL
+target_bag=JLSSTZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=B2 U L2 U' R2 U' R2 B2 D F2 R B2 F2 L B2 D R2 D
+MOVE 77451 14701 13 B2 U L2 U' R2 U' R2 B2 D F2 R B2 F2 L B2 D R2 D
+
+TRANSITION
+target_line=20406
+target_rotation=13
+target_identities=TLSJSL
+target_bag=JLLSST
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=R' L' U' B R' L' D2 B2 R U B2 D2 B2 U2 F' L2 F2 R2 D2 F'
+MOVE 77451 20406 13 R' L' U' B R' L' D2 B2 R U B2 D2 B2 U2 F' L2 F2 R2 D2 F'
+
+TRANSITION
+target_line=20414
+target_rotation=13
+target_identities=TLJZZL
+target_bag=JLLTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=U' B2 U' L F2 B2 R F2 U F2 L2 D' F2 D2 F2 D' B2
+MOVE 77451 20414 13 U' B2 U' L F2 B2 R F2 U F2 L2 D' F2 D2 F2 D' B2
+
+TRANSITION
+target_line=20553
+target_rotation=5
+target_identities=JZLJST
+target_bag=JJLSTZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=U L' F2 U R' U' F2 L' D' R2 D2 B2 L' F2 L B2 L' F2 L'
+MOVE 77451 20553 5 U L' F2 U R' U' F2 L' D' R2 D2 B2 L' F2 L B2 L' F2 L'
+
+TRANSITION
+target_line=20554
+target_rotation=13
+target_identities=TSLJSL
+target_bag=JLLSST
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=U B' L B2 U' L F U2 R F R2 U2 F' L2 D2 F2 U2 F2 B
+MOVE 77451 20554 13 U B' L B2 U' L F U2 R F R2 U2 F' L2 D2 F2 U2 F2 B
+
+TRANSITION
+target_line=20612
+target_rotation=13
+target_identities=JTJZZL
+target_bag=JJLTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=15
+moves=B2 U' R U2 D2 L U2 D2 L2 U B2 R2 U2 R2 D
+MOVE 77451 20612 13 B2 U' R U2 D2 L U2 D2 L2 U B2 R2 U2 R2 D
+
+TRANSITION
+target_line=20613
+target_rotation=0
+target_identities=JZJLZT
+target_bag=JJLTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=L D2 L B2 L2 U2 R F2 R' D' F2 R2 U F2 R2 U F2
+MOVE 77451 20613 0 L D2 L B2 L2 U2 R F2 R' D' F2 R2 U F2 R2 U F2
+
+TRANSITION
+target_line=20614
+target_rotation=13
+target_identities=TSZLJL
+target_bag=JLLSTZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=L B2 L' B2 D2 R' D2 B2 L' D R2 D2 U F2 R' U' L R'
+MOVE 77451 20614 13 L B2 L' B2 D2 R' D2 B2 L' D R2 D2 U F2 R' U' L R'
+
+TRANSITION
+target_line=20620
+target_rotation=4
+target_identities=JZLTLZ
+target_bag=JLLTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=B2 U2 R2 B2 R2 B2 U2 R2 U2 F' L' U' B2 U L F U R2
+MOVE 77451 20620 4 B2 U2 R2 B2 R2 B2 U2 R2 U2 F' L' U' B2 U L F U R2
+
+TRANSITION
+target_line=20621
+target_rotation=13
+target_identities=TZLLSL
+target_bag=LLLSTZ
+target_one_of_each=false
+cross_bag=true
+move_count=15
+moves=B2 L2 D R2 B2 U R2 B2 L B2 D2 B2 L' D F2
+MOVE 77451 20621 13 B2 L2 D R2 B2 U R2 B2 L B2 D2 B2 L' D F2
+
+TRANSITION
+target_line=20622
+target_rotation=13
+target_identities=TSLZLL
+target_bag=LLLSTZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=R2 F D2 F2 U2 B U2 F' D2 F2 R' B2 U2 B' U B' U' B' R'
+MOVE 77451 20622 13 R2 F D2 F2 U2 B U2 F' D2 F2 R' B2 U2 B' U B' U' B' R'
+
+TRANSITION
+target_line=20770
+target_rotation=13
+target_identities=JTSJSL
+target_bag=JJLSST
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=U' L2 R2 D' L2 U2 R2 F2 L2 U R' B2 F2 L' U' F2 D2
+MOVE 77451 20770 13 U' L2 R2 D' L2 U2 R2 F2 L2 U R' B2 F2 L' U' F2 D2
+
+TRANSITION
+target_line=20776
+target_rotation=13
+target_identities=TLSJJS
+target_bag=JJLSST
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=D R F2 U2 R' B2 D2 L U' B2 R' F2 L' U2 B2 L U2 R2 D2
+MOVE 77451 20776 13 D R F2 U2 R' B2 D2 L U' B2 R' F2 L' U2 B2 L U2 R2 D2
+
+TRANSITION
+target_line=20777
+target_rotation=1
+target_identities=JZJJTS
+target_bag=JJJSTZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=F2 U' F2 D' R2 U B2 U' F2 U' R' U2 F2 U2 R B2 F2 U'
+MOVE 77451 20777 1 F2 U' F2 D' R2 U B2 U' F2 U' R' U2 F2 U2 R B2 F2 U'
+
+TRANSITION
+target_line=20843
+target_rotation=12
+target_identities=JSJZJT
+target_bag=JJJSTZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=F2 U R' U R' F' R U' R' B' D2 F U2 D2 L2 F' D2 R2 L2
+MOVE 77451 20843 12 F2 U R' U R' F' R U' R' B' D2 F U2 D2 L2 F' D2 R2 L2
+
+TRANSITION
+target_line=27446
+target_rotation=5
+target_identities=JZLJLT
+target_bag=JJLLTZ
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=B2 R2 U F2 D' L2 D' U2 L' F2 U2 F2 L D F2 U'
+MOVE 77451 27446 5 B2 R2 U F2 D' L2 D' U2 L' F2 U2 F2 L D F2 U'
+
+TRANSITION
+target_line=27447
+target_rotation=13
+target_identities=TLLJSL
+target_bag=JLLLST
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=B2 R2 B2 L2 U2 L2 D2 F2 R2 F2 D' F2 U B2 R' D L2 R2 U' R'
+MOVE 77451 27447 13 B2 R2 B2 L2 U2 L2 D2 F2 R2 F2 D' F2 U B2 R' D L2 R2 U' R'
+
+TRANSITION
+target_line=27535
+target_rotation=0
+target_identities=JZJLJT
+target_bag=JJJLTZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=F2 D2 L' U R2 U2 R U R U2 R F2 U2 L' D2 L2 U2
+MOVE 77451 27535 0 F2 D2 L' U R2 U2 R U R U2 R F2 U2 L' D2 L2 U2
+
+TRANSITION
+target_line=27536
+target_rotation=13
+target_identities=TSJLJL
+target_bag=JJLLST
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=U' L2 R2 F2 R2 D F2 D L2 R B2 U2 B2 R' U B2
+MOVE 77451 27536 13 U' L2 R2 F2 R2 D F2 D L2 R B2 U2 B2 R' U B2
+
+TRANSITION
+target_line=27554
+target_rotation=4
+target_identities=JZLTLJ
+target_bag=JJLLTZ
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=B F R2 B' F' U2 R2 F2 L' U' L U F2 R U R'
+MOVE 77451 27554 4 B F R2 B' F' U2 R2 F2 L' U' L U F2 R U R'
+
+TRANSITION
+target_line=27555
+target_rotation=13
+target_identities=TJLLSL
+target_bag=JLLLST
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=B2 L2 D R2 B2 U' L2 F2 L2 U2 R' D2 F2 D2 R' D F2
+MOVE 77451 27555 13 B2 L2 D R2 B2 U' L2 F2 L2 U2 R' D2 F2 D2 R' D F2
+
+TRANSITION
+target_line=27882
+target_rotation=13
+target_identities=TLLJJS
+target_bag=JJLLST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=U B2 U L' B2 D2 B2 L' U' R2 D' L2 U F2 D2 L2 U F2
+MOVE 77451 27882 13 U B2 U L' B2 D2 B2 L' U' R2 D' L2 U F2 D2 L2 U F2
+
+TRANSITION
+target_line=27883
+target_rotation=1
+target_identities=JZJJTL
+target_bag=JJJLTZ
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=B2 R' U2 F2 D2 L U' B2 D L2 U' F2 U' L2 D2 L2
+MOVE 77451 27883 1 B2 R' U2 F2 D2 L U' B2 D L2 U' F2 U' L2 D2 L2
+
+TRANSITION
+target_line=72929
+target_rotation=13
+target_identities=TZZOLS
+target_bag=LOSTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=U2 D' L2 B2 R U2 D2 L U' B2 D F2 D' R2 U F2 D' L2
+MOVE 77451 72929 13 U2 D' L2 B2 R U2 D2 L U' B2 D F2 D' R2 U F2 D' L2
+
+TRANSITION
+target_line=72940
+target_rotation=12
+target_identities=JSOSZT
+target_bag=JOSSTZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=R2 U L2 U' B2 L2 D' L2 D' B2 D2 L2 B2 U2 R' D2 B2 U2 L
+MOVE 77451 72940 12 R2 U L2 U' B2 L2 D' L2 D' B2 D2 L2 B2 U2 R' D2 B2 U2 L
+
+TRANSITION
+target_line=72962
+target_rotation=13
+target_identities=TSOZLZ
+target_bag=LOSTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=U2 F' L2 U2 F D2 B2 F' U2 B2 D R D' R2 D B' D L2 F2
+MOVE 77451 72962 13 U2 F' L2 U2 F D2 B2 F' U2 B2 D R D' R2 D B' D L2 F2
+
+TRANSITION
+target_line=72974
+target_rotation=12
+target_identities=JOSSZT
+target_bag=JOSSTZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=R2 D2 B2 R2 B' F2 L2 F L' R' U F' U' L R B' U2 F'
+MOVE 77451 72974 12 R2 D2 B2 R2 B' F2 L2 F L' R' U F' U' L R B' U2 F'
+
+TRANSITION
+target_line=76735
+target_rotation=13
+target_identities=TZZOLL
+target_bag=LLOTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=F2 R U F2 R2 L2 D F2 U L' U2 L' U2 R2 B2 R2 F2 D2
+MOVE 77451 76735 13 F2 R U F2 R2 L2 D F2 U L' U2 L' U2 R2 B2 R2 F2 D2
+
+TRANSITION
+target_line=76736
+target_rotation=13
+target_identities=TZOJLZ
+target_bag=JLOTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=21
+moves=R2 F2 D2 B' R2 F' D2 F R2 B U' F2 D L D' L' R D R U F2
+MOVE 77451 76736 13 R2 F2 D2 B' R2 F' D2 F R2 B U' F2 D L D' L' R D R U F2
+
+TRANSITION
+target_line=76747
+target_rotation=5
+target_identities=JZOLST
+target_bag=JLOSTZ
+target_one_of_each=true
+cross_bag=false
+move_count=18
+moves=U2 F2 R2 U2 L2 D2 F2 R2 F2 R2 U B2 F2 L2 U' F2 U R2
+MOVE 77451 76747 5 U2 F2 R2 U2 L2 D2 F2 R2 F2 R2 U B2 F2 L2 U' F2 U R2
+
+TRANSITION
+target_line=76748
+target_rotation=5
+target_identities=JZOSLT
+target_bag=JLOSTZ
+target_one_of_each=true
+cross_bag=false
+move_count=17
+moves=U R2 F2 B2 D R2 U' R F2 B2 R2 B2 U2 F2 R F2 B2
+MOVE 77451 76748 5 U R2 F2 B2 D R2 U' R F2 B2 R2 B2 U2 F2 R F2 B2
+
+TRANSITION
+target_line=76749
+target_rotation=5
+target_identities=JZZOJT
+target_bag=JJOTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=F R2 F' L' B2 L B2 D L' F' L2 F' D2 R2 U2 R2 F2 D2 B2
+MOVE 77451 76749 5 F R2 F' L' B2 L B2 D L' F' L2 F' D2 R2 U2 R2 F2 D2 B2
+
+TRANSITION
+target_line=76752
+target_rotation=5
+target_identities=JZJOZT
+target_bag=JJOTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=U2 B' F' R2 D2 B F L2 D L2 U F2 R2 U F2 U'
+MOVE 77451 76752 5 U2 B' F' R2 D2 B F L2 D L2 U F2 R2 U F2 U'
+
+TRANSITION
+target_line=76773
+target_rotation=13
+target_identities=TSOLLS
+target_bag=LLOSST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=R2 D' F2 U2 R U2 D2 L B2 R2 U' R2 F2 R2 B2 R2 D' F2
+MOVE 77451 76773 13 R2 D' F2 U2 R U2 D2 L B2 R2 U' R2 F2 R2 B2 R2 D' F2
+
+TRANSITION
+target_line=76777
+target_rotation=13
+target_identities=TSOLSL
+target_bag=LLOSST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=B2 D2 R2 B2 L2 D' R2 D' L2 U2 R' B2 F2 L' D F2 U2 L2
+MOVE 77451 76777 13 B2 D2 R2 B2 L2 D' R2 D' L2 U2 R' B2 F2 L' D F2 U2 L2
+
+TRANSITION
+target_line=76778
+target_rotation=4
+target_identities=JZLTSO
+target_bag=JLOSTZ
+target_one_of_each=true
+cross_bag=false
+move_count=16
+moves=D2 F2 U B2 R2 F2 D' F2 R2 U2 L B2 D2 F2 R' U
+MOVE 77451 76778 4 D2 F2 U B2 R2 F2 D' F2 R2 U2 L B2 D2 F2 R' U
+
+TRANSITION
+target_line=76779
+target_rotation=13
+target_identities=TSOLSL
+target_bag=LLOSST
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=D2 F D2 B2 L2 F R2 F' D2 R2 D' B' R' D F' L2 F' R' D R2
+MOVE 77451 76779 13 D2 F D2 B2 L2 F R2 F' D2 R2 D' B' R' D F' L2 F' R' D R2
+
+TRANSITION
+target_line=76783
+target_rotation=13
+target_identities=TSSOJL
+target_bag=JLOSST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=R2 D' B2 U' B2 L2 D' F2 U' L2 R D2 U2 L D B2 L2 D'
+MOVE 77451 76783 13 R2 D' B2 U' B2 L2 D' F2 U' L2 R D2 U2 L D B2 L2 D'
+
+TRANSITION
+target_line=76784
+target_rotation=0
+target_identities=JZJSOT
+target_bag=JJOSTZ
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=D' L2 U R2 U' L2 D R2 U' R' B2 U2 B2 R' D' U
+MOVE 77451 76784 0 D' L2 U R2 U' L2 D R2 U' R' B2 U2 B2 R' D' U
+
+TRANSITION
+target_line=76785
+target_rotation=12
+target_identities=JOSSJT
+target_bag=JJOSST
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=B R2 D2 B' U2 B D2 R2 B D2 R' B2 U' R' U' F2 L' D' F2
+MOVE 77451 76785 12 B R2 D2 B' U2 B D2 R2 B D2 R' B2 U' R' U' F2 L' D' F2
+
+TRANSITION
+target_line=76786
+target_rotation=13
+target_identities=TSOJLZ
+target_bag=JLOSTZ
+target_one_of_each=true
+cross_bag=false
+move_count=18
+moves=D2 R2 F2 D F2 D R2 D F2 D' R B2 F2 L U' B2 D R2
+MOVE 77451 76786 13 D2 R2 F2 D F2 D R2 D F2 D' R B2 F2 L U' B2 D R2
+
+TRANSITION
+target_line=76807
+target_rotation=13
+target_identities=TSOZLJ
+target_bag=JLOSTZ
+target_one_of_each=true
+cross_bag=false
+move_count=20
+moves=R' D2 U2 R F2 L' R2 F2 D2 B2 D' B2 R' U2 R2 F2 L' F2 D' R'
+MOVE 77451 76807 13 R' D2 U2 R F2 L' R2 F2 D2 B2 D' B2 R' U2 R2 F2 L' F2 D' R'
+
+TRANSITION
+target_line=76818
+target_rotation=13
+target_identities=TLOZZL
+target_bag=LLOTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=L' B R' U' B R L U2 B2 D R2 F' R2 F R2 F' D2 R2 F2 U2
+MOVE 77451 76818 13 L' B R' U' B R L U2 B2 D R2 F' R2 F R2 F' D2 R2 F2 U2
+
+TRANSITION
+target_line=76886
+target_rotation=12
+target_identities=JSOSLT
+target_bag=JLOSST
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=B' L' B D B2 L' U F L F L2 F L2 F' L2 F L2 B2 L2
+MOVE 77451 76886 12 B' L' B D B2 L' U F L F L2 F L2 F' L2 F L2 B2 L2
+
+TRANSITION
+target_line=77007
+target_rotation=13
+target_identities=TSZLLO
+target_bag=LLOSTZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=B2 R D2 R D2 R D2 L' D2 L' D' L2 R2 U B2 D2 R'
+MOVE 77451 77007 13 B2 R D2 R D2 R D2 L' D2 L' D' L2 R2 U B2 D2 R'
+
+TRANSITION
+target_line=77011
+target_rotation=13
+target_identities=TOSJSL
+target_bag=JLOSST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=R2 D' B2 D R2 B2 D R2 D' U R' D2 U2 L U R2 B2 U'
+MOVE 77451 77011 13 R2 D' B2 D R2 B2 D R2 D' U R' D2 U2 L U R2 B2 U'
+
+TRANSITION
+target_line=77043
+target_rotation=13
+target_identities=TLZLOZ
+target_bag=LLOTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=L2 D2 R2 D F2 U F2 U2 R2 U R D L2 R2 U' R
+MOVE 77451 77043 13 L2 D2 R2 D F2 U F2 U2 R2 U R D L2 R2 U' R
+
+TRANSITION
+target_line=77044
+target_rotation=13
+target_identities=TZOSJL
+target_bag=JLOSTZ
+target_one_of_each=true
+cross_bag=false
+move_count=20
+moves=F' L2 D2 F U2 B D2 L2 D2 F2 U B' F2 U' B L U B2 U2 R2
+MOVE 77451 77044 13 F' L2 D2 F U2 B D2 L2 D2 F2 U B' F2 U' B L U B2 U2 R2
+
+TRANSITION
+target_line=77072
+target_rotation=13
+target_identities=TOZJLZ
+target_bag=JLOTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=U' L' U' F2 D R L' D L B' D2 L2 B L2 F2 U2 B L2
+MOVE 77451 77072 13 U' L' U' F2 D R L' D L B' D2 L2 B L2 F2 U2 B L2
+
+TRANSITION
+target_line=77224
+target_rotation=13
+target_identities=JTOZZL
+target_bag=JLOTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=R2 D2 R2 U2 B2 L' B2 F2 R F2 D' B2 F2 R2 F2 R2
+MOVE 77451 77224 13 R2 D2 R2 U2 B2 L' B2 F2 R F2 D' B2 F2 R2 F2 R2
+
+TRANSITION
+target_line=77225
+target_rotation=12
+target_identities=JSOZJT
+target_bag=JJOSTZ
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=F2 D2 F U2 F' L2 D2 F' D2 F' R' U' R' U B' L2 U L2 D' U2
+MOVE 77451 77225 12 F2 D2 F U2 F' L2 D2 F' D2 F' R' U' R' U B' L2 U L2 D' U2
+
+TRANSITION
+target_line=77335
+target_rotation=12
+target_identities=JOSSJT
+target_bag=JJOSST
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=R2 F2 L2 F U2 F2 D2 F' U2 F' U' B2 U2 R' F' R F D' B2 U2
+MOVE 77451 77335 12 R2 F2 L2 F U2 F2 D2 F' U2 F' U' B2 U2 R' F' R F D' B2 U2
+
+TRANSITION
+target_line=77336
+target_rotation=12
+target_identities=JOSSLT
+target_bag=JLOSST
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=L2 U' L B2 U2 B2 L' F2 U B2 U R2 L2 B2 L2 D
+MOVE 77451 77336 12 L2 U' L B2 U2 B2 L' F2 U B2 U R2 L2 B2 L2 D
+
+TRANSITION
+target_line=77383
+target_rotation=13
+target_identities=TSOZJL
+target_bag=JLOSTZ
+target_one_of_each=true
+cross_bag=false
+move_count=19
+moves=L' D2 L F2 B2 L D2 B2 U B2 L' U2 R' U2 D2 L' B2 L' D2
+MOVE 77451 77383 13 L' D2 L F2 B2 L D2 B2 U B2 L' U2 R' U2 D2 L' B2 L' D2
+
+TRANSITION
+target_line=77388
+target_rotation=13
+target_identities=TSOJZL
+target_bag=JLOSTZ
+target_one_of_each=true
+cross_bag=false
+move_count=17
+moves=R2 B2 D' B2 F2 D2 R2 U2 R2 B2 L B2 F2 R' D' U2 R2
+MOVE 77451 77388 13 R2 B2 D' B2 F2 D2 R2 U2 R2 B2 L B2 F2 R' D' U2 R2
+
+TRANSITION
+target_line=77389
+target_rotation=13
+target_identities=TSOLSL
+target_bag=LLOSST
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=L2 U L2 R2 B2 D' U' F2 L2 D L' B2 U2 F2 R D'
+MOVE 77451 77389 13 L2 U L2 R2 B2 D' U' F2 L2 D L' B2 U2 F2 R D'
+
+TRANSITION
+target_line=77392
+target_rotation=13
+target_identities=TSOSLL
+target_bag=LLOSST
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=R2 D L' U2 D2 F2 D2 B2 L B2 R2 D' F2 U2 R2 U' L2 F2 L2
+MOVE 77451 77392 13 R2 D L' U2 D2 F2 D2 B2 L B2 R2 D' F2 U2 R2 U' L2 F2 L2
+
+TRANSITION
+target_line=77399
+target_rotation=0
+target_identities=JZJZOT
+target_bag=JJOTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=F2 D2 B' L' U2 D B2 D R' U2 F R2 F2 U2 B R2 F' B2
+MOVE 77451 77399 0 F2 D2 B' L' U2 D B2 D R' U2 F R2 F2 U2 B R2 F' B2
+
+TRANSITION
+target_line=77423
+target_rotation=13
+target_identities=TLOZJS
+target_bag=JLOSTZ
+target_one_of_each=true
+cross_bag=false
+move_count=19
+moves=F2 R2 F' U2 F R2 B' U2 F2 R2 U' F D L' D2 L' D' F' D2
+MOVE 77451 77423 13 F2 R2 F' U2 F R2 B' U2 F2 R2 U' F D L' D2 L' D' F' D2
+
+TRANSITION
+target_line=77424
+target_rotation=1
+target_identities=JZJZTO
+target_bag=JJOTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=R D R F2 D2 R' U B2 U' F2 L2 B2 R2 B2 U2 R' B2 R B2
+MOVE 77451 77424 1 R D R F2 D2 R' U B2 U' F2 L2 B2 R2 B2 U2 R' B2 R B2
+
+TRANSITION
+target_line=77425
+target_rotation=0
+target_identities=JZZJOT
+target_bag=JJOTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=21
+moves=F U' B R2 U' F' R' U' B' R' D F2 R2 B' D2 F2 B' R2 U2 D2 F2
+MOVE 77451 77425 0 F U' B R2 U' F' R' U' B' R' D F2 R2 B' D2 F2 B' R2 U2 D2 F2
+
+TRANSITION
+target_line=77438
+target_rotation=5
+target_identities=JZLZOT
+target_bag=JLOTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=R F' U' D2 F' D2 B2 U F D R2 B2 L' D2 B2 R2 B2 R F2 R2
+MOVE 77451 77438 5 R F' U' D2 F' D2 B2 U F D R2 B2 L' D2 B2 R2 B2 R F2 R2
+
+TRANSITION
+target_line=77439
+target_rotation=13
+target_identities=TOZLSL
+target_bag=LLOSTZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=D2 F2 D' L2 U B2 R2 D2 B2 L2 R B2 D2 B2 R D' U
+MOVE 77451 77439 13 D2 F2 D' L2 U B2 R2 D2 B2 L2 R B2 D2 B2 R D' U
+
+TRANSITION
+target_line=77440
+target_rotation=13
+target_identities=TZOZLL
+target_bag=LLOTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=U' F2 D' L2 U' B2 L2 U2 B2 D' L F2 U2 B2 R' D' R2
+MOVE 77451 77440 13 U' F2 D' L2 U' B2 L2 U2 B2 D' L F2 U2 B2 R' D' R2
+
+TRANSITION
+target_line=77441
+target_rotation=0
+target_identities=JZSLOT
+target_bag=JLOSTZ
+target_one_of_each=true
+cross_bag=false
+move_count=17
+moves=U D' L B2 U2 F2 R' D L2 F2 B2 D' R2 U B2 D2 R2
+MOVE 77451 77441 0 U D' L B2 U2 F2 R' D L2 F2 B2 D' R2 U B2 D2 R2
+
+TRANSITION
+target_line=77512
+target_rotation=1
+target_identities=JOJTZS
+target_bag=JJOSTZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=L2 D2 F2 R2 B2 R' D2 F2 D2 R' U B2 U R D2 U2 L U R2
+MOVE 77451 77512 1 L2 D2 F2 R2 B2 R' D2 F2 D2 R' U B2 U R D2 U2 L U R2
+
+TRANSITION
+target_line=77516
+target_rotation=0
+target_identities=JOLZZT
+target_bag=JLOTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=R2 U L2 D2 B2 U B2 D B2 D2 L' D2 U2 R' D' L2 F2 U2
+MOVE 77451 77516 0 R2 U L2 D2 B2 U B2 D B2 D2 L' D2 U2 R' D' L2 F2 U2
+
+TRANSITION
+target_line=77557
+target_rotation=13
+target_identities=JTSJSO
+target_bag=JJOSST
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=U2 B2 R U2 D2 L D B2 L2 F2 D2 F2 D B2 L2 D2
+MOVE 77451 77557 13 U2 B2 R U2 D2 L D B2 L2 F2 D2 F2 D B2 L2 D2
+
+TRANSITION
+target_line=77578
+target_rotation=13
+target_identities=TLSJSO
+target_bag=JLOSST
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=R U F2 L2 D2 L2 U R2 D R B2 D2 L' U2 R' U2 L' D2 L2
+MOVE 77451 77578 13 R U F2 L2 D2 L2 U R2 D R B2 D2 L' U2 R' U2 L' D2 L2
+
+TRANSITION
+target_line=77581
+target_rotation=13
+target_identities=TSOZLL
+target_bag=LLOSTZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=D U2 L2 R2 B2 U' B2 U' L2 F2 R D2 F2 D2 R' D F2
+MOVE 77451 77581 13 D U2 L2 R2 B2 U' B2 U' L2 F2 R D2 F2 D2 R' D F2
+
+TRANSITION
+target_line=77609
+target_rotation=4
+target_identities=JOTSSJ
+target_bag=JJOSST
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=F2 R2 B2 D' L2 D' U2 B2 D2 U L D2 F2 D2 L' R2 U
+MOVE 77451 77609 4 F2 R2 B2 D' L2 D' U2 B2 D2 U L D2 F2 D2 L' R2 U
+
+TRANSITION
+target_line=77613
+target_rotation=5
+target_identities=JOLSZT
+target_bag=JLOSTZ
+target_one_of_each=true
+cross_bag=false
+move_count=18
+moves=R2 D' B2 D2 U R2 U L2 R2 B2 L D2 U2 R U B2 R2 U2
+MOVE 77451 77613 5 R2 D' B2 D2 U R2 U L2 R2 B2 L D2 U2 R U B2 R2 U2
+
+TRANSITION
+target_line=85862
+target_rotation=13
+target_identities=TOLLSL
+target_bag=LLLOST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=L2 D2 U2 F2 L U2 F2 D2 R' F2 U' L2 R2 F2 D L2 D' B2
+MOVE 77451 85862 13 L2 D2 U2 F2 L U2 F2 D2 R' F2 U' L2 R2 F2 D L2 D' B2
+
+TRANSITION
+target_line=85863
+target_rotation=4
+target_identities=JZLTLO
+target_bag=JLLOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=D2 F2 U' L2 B2 R2 D F2 R2 U2 L B2 D2 F2 R' U
+MOVE 77451 85863 4 D2 F2 U' L2 B2 R2 D F2 R2 U2 L B2 D2 F2 R' U
+
+TRANSITION
+target_line=85864
+target_rotation=13
+target_identities=TSOLJL
+target_bag=JLLOST
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=B2 U B2 L2 D2 U F2 L2 R2 D' L U2 F2 U2 L' U B2
+MOVE 77451 85864 13 B2 U B2 L2 D2 U F2 L2 R2 D' L U2 F2 U2 L' U B2
+
+TRANSITION
+target_line=85865
+target_rotation=0
+target_identities=JZJLOT
+target_bag=JJLOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=R F2 L' B2 L' D2 L2 F2 R2 D' R D R' U R' D' R
+MOVE 77451 85865 0 R F2 L' B2 L' D2 L2 F2 R2 D' R D R' U R' D' R
+
+TRANSITION
+target_line=85916
+target_rotation=13
+target_identities=TJOJLZ
+target_bag=JJLOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=R' L2 U R L2 U2 R U2 D L' B' U2 L2 B L2 U2 R2 F2 R2 B'
+MOVE 77451 85916 13 R' L2 U R L2 U2 R U2 D L' B' U2 L2 B L2 U2 R2 F2 R2 B'
+
+TRANSITION
+target_line=85923
+target_rotation=13
+target_identities=TZJOLL
+target_bag=JLLOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=R' F2 U2 L2 U2 R U2 R2 B2 R D' B2 D B2 L2 U F2 R2
+MOVE 77451 85923 13 R' F2 U2 L2 U2 R U2 R2 B2 R D' B2 D B2 L2 U F2 R2
+
+TRANSITION
+target_line=85924
+target_rotation=13
+target_identities=TZOJLL
+target_bag=JLLOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=F2 U2 D' R' L2 U F2 U' R' U' F L2 U2 F' D2 B2 L2 B' L2
+MOVE 77451 85924 13 F2 U2 D' R' L2 U F2 U' R' U' F L2 U2 F' D2 B2 L2 B' L2
+
+TRANSITION
+target_line=85930
+target_rotation=13
+target_identities=TLJOZL
+target_bag=JLLOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=L2 B2 D' F2 D' B2 D2 B2 R2 U L D' U2 B2 F2 U' L' B2
+MOVE 77451 85930 13 L2 B2 D' F2 D' B2 D2 B2 R2 U L D' U2 B2 F2 U' L' B2
+
+TRANSITION
+target_line=85933
+target_rotation=12
+target_identities=JJOSJT
+target_bag=JJJOST
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=B2 L2 F2 D R2 F2 D' R2 D2 U' L' D2 U2 R B2 U' F2
+MOVE 77451 85933 12 B2 L2 F2 D R2 F2 D' R2 D2 U' L' D2 U2 R B2 U' F2
+
+TRANSITION
+target_line=85951
+target_rotation=5
+target_identities=JZOLLT
+target_bag=JLLOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=D2 B2 D2 B2 R2 U2 R2 U2 F2 R2 U L2 U B2 L2 U R2
+MOVE 77451 85951 5 D2 B2 D2 B2 R2 U2 R2 U2 F2 R2 U L2 U B2 L2 U R2
+
+TRANSITION
+target_line=85952
+target_rotation=5
+target_identities=JZJOJT
+target_bag=JJJOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=F2 L2 F2 U2 L2 U2 L2 F2 R2 U' F2 R2 U L2 F2 U B2 U'
+MOVE 77451 85952 5 F2 L2 F2 U2 L2 U2 L2 F2 R2 U' F2 R2 U L2 F2 U B2 U'
+
+TRANSITION
+target_line=85972
+target_rotation=13
+target_identities=TSOLLL
+target_bag=LLLOST
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=U L2 U F2 U B2 U2 L2 U B2 R D2 U2 L B2 D' L2
+MOVE 77451 85972 13 U L2 U F2 U B2 U2 L2 U B2 R D2 U2 L B2 D' L2
+
+TRANSITION
+target_line=85974
+target_rotation=12
+target_identities=JOLSJT
+target_bag=JJLOST
+target_one_of_each=false
+cross_bag=true
+move_count=15
+moves=D' L' U2 B2 U2 L' B2 U L2 U R2 F2 B2 U' B2
+MOVE 77451 85974 12 D' L' U2 B2 U2 L' B2 U L2 U R2 F2 B2 U' B2
+
+TRANSITION
+target_line=85975
+target_rotation=13
+target_identities=TSOJLJ
+target_bag=JJLOST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=D U2 B2 L2 B2 L2 D B2 U2 F2 R B2 F2 L U' B2 D R2
+MOVE 77451 85975 13 D U2 B2 L2 B2 L2 D B2 U2 F2 R B2 F2 L U' B2 D R2
+
+TRANSITION
+target_line=86156
+target_rotation=12
+target_identities=JLOSLT
+target_bag=JLLOST
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=R2 F' R2 U2 B2 D2 B2 U2 R2 F' R D' R' U' L2 D' L R2 B2 F2
+MOVE 77451 86156 12 R2 F' R2 U2 B2 D2 B2 U2 R2 F' R D' R' U' L2 D' L R2 B2 F2
+
+TRANSITION
+target_line=86160
+target_rotation=13
+target_identities=TOLJZL
+target_bag=JLLOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=B2 U R2 U F2 R2 F2 U' L2 R' D2 U2 L D R2 D2 U2
+MOVE 77451 86160 13 B2 U R2 U F2 R2 F2 U' L2 R' D2 U2 L D R2 D2 U2
+
+TRANSITION
+target_line=86161
+target_rotation=13
+target_identities=TOLZJL
+target_bag=JLLOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=B2 F2 R' U2 L2 B2 L' R B2 U' B2 R' D2 L2 F2 R' D2
+MOVE 77451 86161 13 B2 F2 R' U2 L2 B2 L' R B2 U' B2 R' D2 L2 F2 R' D2
+
+TRANSITION
+target_line=86162
+target_rotation=13
+target_identities=TOLSLL
+target_bag=LLLOST
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=R' U' L' F2 U L' D' F2 U D2 B2 R F2 U2 F2 U2 B2 U2 L
+MOVE 77451 86162 13 R' U' L' F2 U L' D' F2 U D2 B2 R F2 U2 F2 U2 B2 U2 L
+
+TRANSITION
+target_line=86167
+target_rotation=13
+target_identities=TOLLSL
+target_bag=LLLOST
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=R2 D' F2 L2 R2 D' U2 B2 R2 U2 R' D L2 R2 U' R' U
+MOVE 77451 86167 13 R2 D' F2 L2 R2 D' U2 B2 R2 U2 R' D L2 R2 U' R' U
+
+TRANSITION
+target_line=86403
+target_rotation=13
+target_identities=TZLJLO
+target_bag=JLLOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=R' L2 U R2 L2 F2 R2 B2 U R U2 R2 F2 R' F2 R U2 L2 D2
+MOVE 77451 86403 13 R' L2 U R2 L2 F2 R2 B2 U R U2 R2 F2 R' F2 R U2 L2 D2
+
+TRANSITION
+target_line=86418
+target_rotation=13
+target_identities=TOSJJL
+target_bag=JJLOST
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=U2 F2 D2 B2 R2 D2 L2 F2 L2 F2 U' R U2 F2 U2 R' D R2 U F2
+MOVE 77451 86418 13 U2 F2 D2 B2 R2 D2 L2 F2 L2 F2 U' R U2 F2 U2 R' D R2 U F2
+
+TRANSITION
+target_line=86453
+target_rotation=13
+target_identities=TLZLOL
+target_bag=LLLOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=L2 D2 R2 D F2 U B2 U2 R2 U' L B2 U2 F2 R D' U'
+MOVE 77451 86453 13 L2 D2 R2 D F2 U B2 U2 R2 U' L B2 U2 F2 R D' U'
+
+TRANSITION
+target_line=86454
+target_rotation=13
+target_identities=TOSLJL
+target_bag=JLLOST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=D2 R B2 L' U2 R2 U2 R' F2 D2 U F2 L' B2 R' U2 L2 R'
+MOVE 77451 86454 13 D2 R B2 L' U2 R2 U2 R' F2 D2 U F2 L' B2 R' U2 L2 R'
+
+TRANSITION
+target_line=86609
+target_rotation=13
+target_identities=TOJJLZ
+target_bag=JJLOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=B' U2 L2 F2 D2 L2 F U2 R2 B2 R' D L D' U B' U' R' B R2
+MOVE 77451 86609 13 B' U2 L2 F2 D2 L2 F U2 R2 B2 R' D L D' U B' U' R' B R2
+
+TRANSITION
+target_line=86906
+target_rotation=1
+target_identities=JOLJTS
+target_bag=JJLOST
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=U B2 D' R2 U R2 B2 U2 L2 U2 R' U' L2 R2 D R
+MOVE 77451 86906 1 U B2 D' R2 U R2 B2 U2 L2 U2 R' U' L2 R2 D R
+
+TRANSITION
+target_line=86920
+target_rotation=0
+target_identities=JOLLZT
+target_bag=JLLOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=B2 D R U2 F2 D2 L' D' R B2 D2 B2 R L2 U2 L2 B2 L2
+MOVE 77451 86920 0 B2 D R U2 F2 D2 L' D' R B2 D2 B2 R L2 U2 L2 B2 L2
+
+TRANSITION
+target_line=87041
+target_rotation=12
+target_identities=JJOTLS
+target_bag=JJLOST
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=D B2 L2 R2 D' U2 F2 D' R2 F2 L B2 F2 R' D2 B2
+MOVE 77451 87041 12 D B2 L2 R2 D' U2 F2 D' R2 F2 L B2 F2 R' D2 B2
+
+TRANSITION
+target_line=87042
+target_rotation=12
+target_identities=JJOTSL
+target_bag=JJLOST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=F2 R D2 L' D2 U2 F2 R D2 B2 U B2 U' F2 L' D L' R
+MOVE 77451 87042 12 F2 R D2 L' D2 U2 F2 R D2 B2 U B2 U' F2 L' D L' R
+
+TRANSITION
+target_line=87043
+target_rotation=12
+target_identities=JJOJTZ
+target_bag=JJJOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=R F2 U2 R F2 L2 U2 R U2 R' U R2 U B2 D' L2 D'
+MOVE 77451 87043 12 R F2 U2 R F2 L2 U2 R U2 R' U R2 U B2 D' L2 D'
+
+TRANSITION
+target_line=87048
+target_rotation=12
+target_identities=JJOZTJ
+target_bag=JJJOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=R B2 U2 B2 U2 R B2 D L' B2 R2 F R2 F' D2 B U2 B' U2
+MOVE 77451 87048 12 R B2 U2 B2 U2 R B2 D L' B2 R2 F R2 F' D2 B U2 B' U2
+
+TRANSITION
+target_line=87166
+target_rotation=13
+target_identities=JTJOZL
+target_bag=JJLOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=R2 B2 L2 D U L2 U L2 R2 B2 L' U' B2 F2 D' U2 L B2
+MOVE 77451 87166 13 R2 B2 L2 D U L2 U L2 R2 B2 L' U' B2 F2 D' U2 L B2
+
+TRANSITION
+target_line=87168
+target_rotation=12
+target_identities=JSJOJT
+target_bag=JJJOST
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=F2 D B2 L U' B2 L2 U R2 U L2 D2 F' D2 L2 D2 L2 F R2 F2
+MOVE 77451 87168 12 F2 D B2 L U' B2 L2 U R2 U L2 D2 F' D2 L2 D2 L2 F R2 F2
+
+TRANSITION
+target_line=87239
+target_rotation=13
+target_identities=TLOJJS
+target_bag=JJLOST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=L D2 R' U2 R2 D2 B2 L F2 R' U' B2 D2 U B2 U' R2 D'
+MOVE 77451 87239 13 L D2 R' U2 R2 D2 B2 L F2 R' U' B2 D2 U B2 U' R2 D'
+
+TRANSITION
+target_line=87240
+target_rotation=1
+target_identities=JZJJTO
+target_bag=JJJOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=D2 F2 D2 R' F2 U2 L2 U2 R' B2 D' R2 U L' B2 L' R2 D R'
+MOVE 77451 87240 1 D2 F2 D2 R' F2 U2 L2 U2 R' B2 D' R2 U L' B2 L' R2 D R'
+
+TRANSITION
+target_line=87245
+target_rotation=5
+target_identities=JZLJOT
+target_bag=JJLOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=U2 L' R' F2 U2 R' F2 U2 F2 L2 D L' F2 R U' R' U'
+MOVE 77451 87245 5 U2 L' R' F2 U2 R' F2 U2 F2 L2 D L' F2 R U' R' U'
+
+TRANSITION
+target_line=87246
+target_rotation=13
+target_identities=TOLJSL
+target_bag=JLLOST
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=L2 F2 D2 R2 B2 D2 R2 F2 U2 R2 D' R B2 U2 B2 R' B2 U B2
+MOVE 77451 87246 13 L2 F2 D2 R2 B2 D2 R2 F2 U2 R2 D' R B2 U2 B2 R' B2 U B2
+
+TRANSITION
+target_line=87283
+target_rotation=4
+target_identities=JOJTSJ
+target_bag=JJJOST
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=L2 U' L2 F2 D' F2 D' R2 U L U2 F2 U2 L' D U
+MOVE 77451 87283 4 L2 U' L2 F2 D' F2 D' R2 U L U2 F2 U2 L' D U
+
+TRANSITION
+target_line=87287
+target_rotation=5
+target_identities=JOJLZT
+target_bag=JJLOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=U' D2 R F2 D2 F2 R' D2 L2 U' R2 U' L2 B2 U' B2
+MOVE 77451 87287 5 U' D2 R F2 D2 F2 R' D2 L2 U' R2 U' L2 B2 U' B2
+
+TRANSITION
+target_line=87609
+target_rotation=12
+target_identities=JOLSLT
+target_bag=JLLOST
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=B2 L2 U L2 D' F2 R2 B2 L2 U L' F2 D2 B2 R' D'
+MOVE 77451 87609 12 B2 L2 U L2 D' F2 R2 B2 L2 U L' F2 D2 B2 R' D'
+
+TRANSITION
+target_line=87626
+target_rotation=12
+target_identities=JOSLJT
+target_bag=JJLOST
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=R2 U2 F2 L2 B U2 L2 F R2 F U F D2 F D' U' R U' L2 U'
+MOVE 77451 87626 12 R2 U2 F2 L2 B U2 L2 F R2 F U F D2 F D' U' R U' L2 U'
+
+TRANSITION
+target_line=87627
+target_rotation=12
+target_identities=JJOSLT
+target_bag=JJLOST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=U2 L2 D' F2 L F2 B2 R' L2 B2 U2 L2 D F2 R2 D F2 D'
+MOVE 77451 87627 12 U2 L2 D' F2 L F2 B2 R' L2 B2 U2 L2 D F2 R2 D F2 D'
+
+TRANSITION
+target_line=87645
+target_rotation=13
+target_identities=JTSJLO
+target_bag=JJLOST
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=F2 D2 B2 D2 L2 D' B2 U' F2 U2 R' D' L2 R2 D2 U' L B2 F2
+MOVE 77451 87645 13 F2 D2 B2 D2 L2 D' B2 U' F2 U2 R' D' L2 R2 D2 U' L B2 F2
+
+TRANSITION
+target_line=87652
+target_rotation=13
+target_identities=TZOLLL
+target_bag=LLLOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=B2 F2 D2 R F2 L' F2 R B2 D' U2 F2 R' U2 L F2 L
+MOVE 77451 87652 13 B2 F2 D2 R F2 L' F2 R B2 D' U2 F2 R' U2 L F2 L
+
+TRANSITION
+target_line=87700
+target_rotation=13
+target_identities=TLSJLO
+target_bag=JLLOST
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=F2 L' D2 L2 D2 R U2 F2 R B2 U R U2 R2 B2 U F2 R' B2 R'
+MOVE 77451 87700 13 F2 L' D2 L2 D2 R U2 F2 R B2 U R U2 R2 B2 U F2 R' B2 R'
+
+TRANSITION
+target_line=87709
+target_rotation=13
+target_identities=TOLZLL
+target_bag=LLLOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=L2 U' B2 D' F2 L2 F2 D' U F2 L' B2 F2 R D' L2 D'
+MOVE 77451 87709 13 L2 U' B2 D' F2 L2 F2 D' U F2 L' B2 F2 R D' L2 D'
+
+TRANSITION
+target_line=87837
+target_rotation=13
+target_identities=TSOJJL
+target_bag=JJLOST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=F2 L2 D2 R2 F2 R2 B2 D2 B2 D2 U' L F2 U2 B2 R' D' R2
+MOVE 77451 87837 13 F2 L2 D2 R2 F2 R2 B2 D2 B2 D2 U' L F2 U2 B2 R' D' R2
+
+TRANSITION
+target_line=87838
+target_rotation=13
+target_identities=TSOLLL
+target_bag=LLLOST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=R2 D U2 R2 B2 U' L2 U' L2 F2 L' B2 F2 R' D' U2 R2 U'
+MOVE 77451 87838 13 R2 D U2 R2 B2 U' L2 U' L2 F2 L' B2 F2 R' D' U2 R2 U'
+
+TRANSITION
+target_line=87875
+target_rotation=0
+target_identities=JZJJOT
+target_bag=JJJOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=F2 D2 R' B2 U2 F2 L U' R2 D L2 U2 F2 U' B2 U B2
+MOVE 77451 87875 0 F2 D2 R' B2 U2 F2 L U' R2 D L2 U2 F2 U' B2 U B2
+
+TRANSITION
+target_line=87879
+target_rotation=13
+target_identities=TJOZLL
+target_bag=JLLOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=R B2 L2 U2 B2 L' F2 D2 B2 R2 D' R' F2 U L2 U' R'
+MOVE 77451 87879 13 R B2 L2 U2 B2 L' F2 D2 B2 R2 D' R' F2 U L2 U' R'
+
+TRANSITION
+target_line=87880
+target_rotation=0
+target_identities=JZLLOT
+target_bag=JLLOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=15
+moves=B2 D' L2 D' U2 B2 R2 U' L2 R F2 U2 F2 R' D2
+MOVE 77451 87880 0 B2 D' L2 D' U2 B2 R2 U' L2 R F2 U2 F2 R' D2
+
+TRANSITION
+target_line=92357
+target_rotation=13
+target_identities=TOLJJL
+target_bag=JJLLOT
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=R2 B2 D' L D2 B2 U2 R' D L2 F2 R2 U2 L2 U2 F2 D2 B2 D2
+MOVE 77451 92357 13 R2 B2 D' L D2 B2 U2 R' D L2 F2 R2 U2 L2 U2 F2 D2 B2 D2
+
+TRANSITION
+target_line=92358
+target_rotation=13
+target_identities=TOLLLL
+target_bag=LLLLOT
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=R' B2 L2 F2 L' F2 D2 R2 D2 R D' U2 L' U2 R2 F2 U' R'
+MOVE 77451 92358 13 R' B2 L2 F2 L' F2 D2 R2 D2 R D' U2 L' U2 R2 F2 U' R'
+
+TRANSITION
+target_line=92473
+target_rotation=13
+target_identities=TJLJLO
+target_bag=JJLLOT
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=B2 L2 B2 U B2 U' L2 U2 F2 U L' B2 U2 F2 R' D' R2
+MOVE 77451 92473 13 B2 L2 B2 U B2 U' L2 U2 F2 U L' B2 U2 F2 R' D' R2
+
+TRANSITION
+target_line=92492
+target_rotation=13
+target_identities=TOLJJL
+target_bag=JJLLOT
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=L2 R2 B2 U2 L2 F2 D2 R2 U2 F2 D L U2 F2 U2 L' D B2 U B2
+MOVE 77451 92492 13 L2 R2 B2 U2 L2 F2 D2 R2 U2 F2 D L U2 F2 U2 L' D B2 U B2
+
+TRANSITION
+target_line=92621
+target_rotation=13
+target_identities=TLJLOL
+target_bag=JLLLOT
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=U' L2 D F2 L2 U2 R2 U' R2 D R F2 D2 F2 R B2 D'
+MOVE 77451 92621 13 U' L2 D F2 L2 U2 R2 U' R2 D R F2 D2 F2 R B2 D'
+
+TRANSITION
+target_line=92622
+target_rotation=13
+target_identities=TOLLJL
+target_bag=JLLLOT
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=R2 L U2 R' D2 F2 R D' B2 R B2 R' L2 F2 D2 R U2 D2
+MOVE 77451 92622 13 R2 L U2 R' D2 F2 R D' B2 R B2 R' L2 F2 D2 R U2 D2
+
+TRANSITION
+target_line=92981
+target_rotation=1
+target_identities=JOLJTL
+target_bag=JJLLOT
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=F2 R' U2 B2 R B2 F2 R' B2 R' U F2 D' B2 U2 F2 U' B2
+MOVE 77451 92981 1 F2 R' U2 B2 R B2 F2 R' B2 R' U F2 D' B2 U2 F2 U' B2
+
+TRANSITION
+target_line=93023
+target_rotation=0
+target_identities=JOLLJT
+target_bag=JJLLOT
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=D2 B' F' L2 U2 B2 L2 B F' D' R U2 B2 U2 R' U' L2 D2 F2
+MOVE 77451 93023 0 D2 B' F' L2 U2 B2 L2 B F' D' R U2 B2 U2 R' U' L2 D2 F2
+
+TRANSITION
+target_line=93182
+target_rotation=12
+target_identities=JJOTLL
+target_bag=JJLLOT
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=U R2 F2 B2 U F2 D F2 U2 L U2 L' F2 B2 R D2 R
+MOVE 77451 93182 12 U R2 F2 B2 U F2 D F2 U2 L U2 L' F2 B2 R D2 R
+
+TRANSITION
+target_line=93183
+target_rotation=12
+target_identities=JJOJTJ
+target_bag=JJJJOT
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=B2 L B2 F2 U2 L U2 B2 L' R U' B2 L D B2 R B2 D L'
+MOVE 77451 93183 12 B2 L B2 F2 U2 L U2 B2 L' R U' B2 L D B2 R B2 D L'
+
+TRANSITION
+target_line=93460
+target_rotation=4
+target_identities=JOJTLJ
+target_bag=JJJLOT
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=D R' U R2 L2 D' R L2 U F2 U D F2 R2 D' R2 D'
+MOVE 77451 93460 4 D R' U R2 L2 D' R L2 U F2 U D F2 R2 D' R2 D'
+
+TRANSITION
+target_line=93470
+target_rotation=5
+target_identities=JOJLJT
+target_bag=JJJLOT
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=R2 U R2 U F2 L2 U R2 D' F2 L' R2 D' B2 F2 U R
+MOVE 77451 93470 5 R2 U R2 U F2 L2 U R2 D' F2 L' R2 D' B2 F2 U R
+
+TRANSITION
+target_line=125016
+target_rotation=12
+target_identities=JOOSST
+target_bag=JOOSST
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=D' R2 F2 L' D2 L B2 U R' F' R2 F2 B R2 B L2 F' D2 L2
+MOVE 77451 125016 12 D' R2 F2 L' D2 L B2 U R' F' R2 F2 B R2 B L2 F' D2 L2
+
+TRANSITION
+target_line=125017
+target_rotation=12
+target_identities=JSSOOT
+target_bag=JOOSST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=R2 F2 L2 F2 L2 D' R2 U' L B2 R2 F2 D2 R' D2 L2 B2 R
+MOVE 77451 125017 12 R2 F2 L2 F2 L2 D' R2 U' L B2 R2 F2 D2 R' D2 L2 B2 R
+
+TRANSITION
+target_line=125028
+target_rotation=13
+target_identities=TZZOLO
+target_bag=LOOTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=U' D' B2 U' L F2 B2 R F2 U' L2 U F2 U F2 B2 U2 L2
+MOVE 77451 125028 13 U' D' B2 U' L F2 B2 R F2 U' L2 U F2 U F2 B2 U2 L2
+
+TRANSITION
+target_line=125031
+target_rotation=12
+target_identities=JOOZST
+target_bag=JOOSTZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=L2 D L2 D' B2 D2 R2 F2 D' B2 L' D2 U2 R' D2 U' F2
+MOVE 77451 125031 12 L2 D L2 D' B2 D2 R2 F2 D' B2 L' D2 U2 R' D2 U' F2
+
+TRANSITION
+target_line=125053
+target_rotation=13
+target_identities=TOOZLZ
+target_bag=LOOTZZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=D2 B2 R2 D U2 R2 U L2 U' R D2 U2 L U F2 D' U'
+MOVE 77451 125053 13 D2 B2 R2 D U2 R2 U L2 U' R D2 U2 L U F2 D' U'
+
+TRANSITION
+target_line=125055
+target_rotation=13
+target_identities=TOOZSL
+target_bag=LOOSTZ
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=L2 R2 B' L2 B2 L2 B2 D2 B R F' R' U B2 R' F2 L2 D U2 F'
+MOVE 77451 125055 13 L2 R2 B' L2 B2 L2 B2 D2 B R F' R' U B2 R' F2 L2 D U2 F'
+
+TRANSITION
+target_line=128507
+target_rotation=13
+target_identities=TOOZJL
+target_bag=JLOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=R2 D2 B2 F R2 B' L2 R2 U2 F U B2 D2 F2 R' F' U F' D
+MOVE 77451 128507 13 R2 D2 B2 F R2 B' L2 R2 U2 F U B2 D2 F2 R' F' U F' D
+
+TRANSITION
+target_line=128521
+target_rotation=13
+target_identities=TLOOJS
+target_bag=JLOOST
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=F2 R2 D2 R2 D' B' L B' L' D L2 F R2 U2 F U2 B' D2 B' R2
+MOVE 77451 128521 13 F2 R2 D2 R2 D' B' L B' L' D L2 F R2 U2 F U2 B' D2 B' R2
+
+TRANSITION
+target_line=128522
+target_rotation=1
+target_identities=JZJOTO
+target_bag=JJOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=U2 R' D F D' R2 D R2 F R' F2 D2 L2 B2 R D2 R2 B2 D2
+MOVE 77451 128522 1 U2 R' D F D' R2 D R2 F R' F2 D2 L2 B2 R D2 R2 B2 D2
+
+TRANSITION
+target_line=128523
+target_rotation=13
+target_identities=TOOJZL
+target_bag=JLOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=F2 R2 U F2 D2 R2 U F2 R2 B2 L' B2 U2 F2 R' D' F2
+MOVE 77451 128523 13 F2 R2 U F2 D2 R2 U F2 R2 B2 L' B2 U2 F2 R' D' F2
+
+TRANSITION
+target_line=128524
+target_rotation=13
+target_identities=JTSJOO
+target_bag=JJOOST
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=D2 L2 D' R2 F2 L2 D' B2 F2 U' R B2 F2 L D' F2 U2
+MOVE 77451 128524 13 D2 L2 D' R2 F2 L2 D' B2 F2 U' R B2 F2 L D' F2 U2
+
+TRANSITION
+target_line=128531
+target_rotation=5
+target_identities=JZLOOT
+target_bag=JLOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=R' F2 L B2 L2 U2 D2 R' U' F2 R D2 F2 L F2 L2 B2 R'
+MOVE 77451 128531 5 R' F2 L B2 L2 U2 D2 R' U' F2 R D2 F2 L F2 L2 B2 R'
+
+TRANSITION
+target_line=128532
+target_rotation=13
+target_identities=TOLOSL
+target_bag=LLOOST
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=B2 D F2 D' R2 D F2 D' U F2 R D2 F2 U2 L' D'
+MOVE 77451 128532 13 B2 D F2 D' R2 D F2 D' U F2 R D2 F2 U2 L' D'
+
+TRANSITION
+target_line=128533
+target_rotation=13
+target_identities=TOLOSL
+target_bag=LLOOST
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=R' F2 D2 B2 L U2 R2 U2 F2 R2 U R2 U' B2 L2 R2
+MOVE 77451 128533 13 R' F2 D2 B2 L U2 R2 U2 F2 R2 U R2 U' B2 L2 R2
+
+TRANSITION
+target_line=128541
+target_rotation=13
+target_identities=TOSOLL
+target_bag=LLOOST
+target_one_of_each=false
+cross_bag=true
+move_count=15
+moves=R' F2 D2 L D2 L F2 L D' B2 U' F2 R' B2 R
+MOVE 77451 128541 13 R' F2 D2 L D2 L F2 L D' B2 U' F2 R' B2 R
+
+TRANSITION
+target_line=128601
+target_rotation=13
+target_identities=TSOOJL
+target_bag=JLOOST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=U2 F2 L2 F2 L2 D2 L2 D' F2 U2 R B2 F2 L U' F2 D U'
+MOVE 77451 128601 13 U2 F2 L2 F2 L2 D2 L2 D' F2 U2 R B2 F2 L U' F2 D U'
+
+TRANSITION
+target_line=128602
+target_rotation=0
+target_identities=JZJOOT
+target_bag=JJOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=B2 R2 L F2 L U2 F2 L' U F2 U2 L2 F' L2 B R2 B' L2 F'
+MOVE 77451 128602 0 B2 R2 L F2 L U2 F2 L' U F2 U2 L2 F' L2 B R2 B' L2 F'
+
+TRANSITION
+target_line=128605
+target_rotation=12
+target_identities=JSOOJT
+target_bag=JJOOST
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=U2 R' U2 R U2 R D' B2 R2 L F2 L' F2 U2 R' F2 D2
+MOVE 77451 128605 12 U2 R' U2 R U2 R D' B2 R2 L F2 L' F2 U2 R' F2 D2
+
+TRANSITION
+target_line=128622
+target_rotation=13
+target_identities=TLSJOO
+target_bag=JLOOST
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=U B2 U R' U2 B R D B2 L' B D2 L2 F L2 F' U2 R2 D2 L2
+MOVE 77451 128622 13 U B2 U R' U2 B R D B2 L' B D2 L2 F L2 F' U2 R2 D2 L2
+
+TRANSITION
+target_line=128626
+target_rotation=13
+target_identities=TOOZLL
+target_bag=LLOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=U' B2 U2 L2 D' R2 U B2 R2 U L B2 U2 F2 R D' U'
+MOVE 77451 128626 13 U' B2 U2 L2 D' R2 U B2 R2 U L B2 U2 F2 R D' U'
+
+TRANSITION
+target_line=128694
+target_rotation=1
+target_identities=JOLSTO
+target_bag=JLOOST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=L U F2 D B2 U' R D' L2 B2 R B2 R U2 L2 B2 U2 L
+MOVE 77451 128694 1 L U F2 D B2 U' R D' L2 B2 R B2 R U2 L2 B2 U2 L
+
+TRANSITION
+target_line=128697
+target_rotation=13
+target_identities=TOOLSL
+target_bag=LLOOST
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=F2 D' F2 U' B2 L F2 B2 R U F B D2 F' B' U2 F2 D2 R2 U2
+MOVE 77451 128697 13 F2 D' F2 U' B2 L F2 B2 R U F B D2 F' B' U2 F2 D2 R2 U2
+
+TRANSITION
+target_line=128698
+target_rotation=4
+target_identities=JZLTOO
+target_bag=JLOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=D L2 R2 D F2 L2 U' B2 F2 U L U2 F2 D2 R' B2 U'
+MOVE 77451 128698 4 D L2 R2 D F2 L2 U' B2 F2 U L U2 F2 D2 R' B2 U'
+
+TRANSITION
+target_line=128699
+target_rotation=13
+target_identities=TLOOZL
+target_bag=LLOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=F2 L U2 L F2 R2 U2 R B2 L D' R2 B2 L2 B2 D U' R2
+MOVE 77451 128699 13 F2 L U2 L F2 R2 U2 R B2 L D' R2 B2 L2 B2 D U' R2
+
+TRANSITION
+target_line=128700
+target_rotation=1
+target_identities=JOSLTO
+target_bag=JLOOST
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=L U2 F2 L' R2 B2 D2 R U2 R' U L' D' U' R' U2 R' U' R2
+MOVE 77451 128700 1 L U2 F2 L' R2 B2 D2 R U2 R' U L' D' U' R' U2 R' U' R2
+
+TRANSITION
+target_line=128701
+target_rotation=13
+target_identities=TSOOJL
+target_bag=JLOOST
+target_one_of_each=false
+cross_bag=true
+move_count=21
+moves=F U2 F U2 R F D' R' L2 F' U F2 L2 B' D2 L2 F2 L2 F R2 B2
+MOVE 77451 128701 13 F U2 F U2 R F D' R' L2 F' U F2 L2 B' D2 L2 F2 L2 F R2 B2
+
+TRANSITION
+target_line=128702
+target_rotation=0
+target_identities=JZJOOT
+target_bag=JJOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=U R2 B2 D2 F2 D' B2 U' B2 U L' B2 D2 F2 R U
+MOVE 77451 128702 0 U R2 B2 D2 F2 D' B2 U' B2 U L' B2 D2 F2 R U
+
+TRANSITION
+target_line=128703
+target_rotation=1
+target_identities=JOZJTO
+target_bag=JJOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=U' R2 U' F2 L2 F2 D' F2 U' F2 R D2 B2 U2 L' F2
+MOVE 77451 128703 1 U' R2 U' F2 L2 F2 D' F2 U' F2 R D2 B2 U2 L' F2
+
+TRANSITION
+target_line=128715
+target_rotation=1
+target_identities=JOJZTO
+target_bag=JJOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=B F L2 D2 R2 D2 B F U2 F2 D' F2 U B2 F2 U2
+MOVE 77451 128715 1 B F L2 D2 R2 D2 B F U2 F2 D' F2 U B2 F2 U2
+
+TRANSITION
+target_line=128736
+target_rotation=13
+target_identities=TOOLLS
+target_bag=LLOOST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=D F2 R F2 R' B2 D2 L U F2 L U2 L F2 R L2 D2 L2
+MOVE 77451 128736 13 D F2 R F2 R' B2 D2 L U F2 L U2 L F2 R L2 D2 L2
+
+TRANSITION
+target_line=128747
+target_rotation=13
+target_identities=TOOLSL
+target_bag=LLOOST
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=F' R' F D2 B' L' U2 F R2 U F2 R2 U2 L2 F D2 R2 F' B' U2
+MOVE 77451 128747 13 F' R' F D2 B' L' U2 F R2 U F2 R2 U2 L2 F D2 R2 F' B' U2
+
+TRANSITION
+target_line=128748
+target_rotation=13
+target_identities=TOOJLZ
+target_bag=JLOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=B2 F' L2 U2 F' L2 R2 F' L2 D2 R' U2 B' D2 B2 R2 F R2 D'
+MOVE 77451 128748 13 B2 F' L2 U2 F' L2 R2 F' L2 D2 R' U2 B' D2 B2 R2 F R2 D'
+
+TRANSITION
+target_line=128758
+target_rotation=13
+target_identities=TOOZLJ
+target_bag=JLOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=21
+moves=U L2 U B' U2 B2 U R' F2 U R' B D2 B2 R2 U2 B R2 B L2 B
+MOVE 77451 128758 13 U L2 U B' U2 B2 U R' F2 U R' B D2 B2 R2 U2 B R2 B L2 B
+
+TRANSITION
+target_line=128765
+target_rotation=13
+target_identities=TOOJLZ
+target_bag=JLOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=U L2 U R D' R' F' L2 F' R F U2 F D2 R2 F2 D2 B' D2
+MOVE 77451 128765 13 U L2 U R D' R' F' L2 F' R F U2 F D2 R2 F2 D2 B' D2
+
+TRANSITION
+target_line=128776
+target_rotation=13
+target_identities=TZOOLL
+target_bag=LLOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=F' L2 D2 R2 F R2 B F2 R2 F' D B' R' D F' L2 F' R' D R2
+MOVE 77451 128776 13 F' L2 D2 R2 F R2 B F2 R2 F' D B' R' D F' L2 F' R' D R2
+
+TRANSITION
+target_line=128788
+target_rotation=5
+target_identities=JZJOOT
+target_bag=JJOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=B2 L2 B2 L2 D2 L2 U2 R2 F L2 D' B' R2 B D L2 F R2
+MOVE 77451 128788 5 B2 L2 B2 L2 D2 L2 U2 R2 F L2 D' B' R2 B D L2 F R2
+
+TRANSITION
+target_line=128792
+target_rotation=5
+target_identities=JZOOLT
+target_bag=JLOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=L2 D2 R2 F2 L2 F2 U2 R2 U2 F2 U L2 F2 U B2 L2 U R2
+MOVE 77451 128792 5 L2 D2 R2 F2 L2 F2 U2 R2 U2 F2 U L2 F2 U B2 L2 U R2
+
+TRANSITION
+target_line=128793
+target_rotation=5
+target_identities=JZOOLT
+target_bag=JLOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=B' U' B' U2 L' U L' F2 U B U2 B R2 F' L2 F2 L2 F
+MOVE 77451 128793 5 B' U' B' U2 L' U L' F2 U B U2 B R2 F' L2 F2 L2 F
+
+TRANSITION
+target_line=128794
+target_rotation=5
+target_identities=JZOOJT
+target_bag=JJOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=B' L2 B' R2 F2 L2 B D2 F' L R2 U L' U F' U2 R2 D F2
+MOVE 77451 128794 5 B' L2 B' R2 F2 L2 B D2 F' L R2 U L' U F' U2 R2 D F2
+
+TRANSITION
+target_line=128800
+target_rotation=13
+target_identities=TOSOLJ
+target_bag=JLOOST
+target_one_of_each=false
+cross_bag=true
+move_count=21
+moves=F R2 F B D' R2 L U2 D2 R U' F D2 B2 R2 B' D2 F L2 D2 F2
+MOVE 77451 128800 13 F R2 F B D' R2 L U2 D2 R U' F D2 B2 R2 B' D2 F L2 D2 F2
+
+TRANSITION
+target_line=128818
+target_rotation=13
+target_identities=TSOLLO
+target_bag=LLOOST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=D R2 B2 U' F2 U B2 R2 F2 U R B2 F2 L D2 U' B2 U2
+MOVE 77451 128818 13 D R2 B2 U' F2 U B2 R2 F2 U R B2 F2 L D2 U' B2 U2
+
+TRANSITION
+target_line=128819
+target_rotation=0
+target_identities=JOLSOT
+target_bag=JLOOST
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=L U2 R2 F2 R' D2 R2 F2 R F2 U B2 F2 R D L2 R2 U' R'
+MOVE 77451 128819 0 L U2 R2 F2 R' D2 R2 F2 R F2 U B2 F2 R D L2 R2 U' R'
+
+TRANSITION
+target_line=128820
+target_rotation=13
+target_identities=TLSOOL
+target_bag=LLOOST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=U2 R2 U' R2 F2 U' L2 U2 L2 D R B2 F2 L' U' B2 D R2
+MOVE 77451 128820 13 U2 R2 U' R2 F2 U' L2 U2 L2 D R B2 F2 L' U' B2 D R2
+
+TRANSITION
+target_line=128821
+target_rotation=13
+target_identities=TOSOLL
+target_bag=LLOOST
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=R2 F2 L2 F2 D2 L' B2 F2 R D' L2 R2 F2 U R2 U' F2
+MOVE 77451 128821 13 R2 F2 L2 F2 D2 L' B2 F2 R D' L2 R2 F2 U R2 U' F2
+
+TRANSITION
+target_line=128829
+target_rotation=13
+target_identities=TSOJLO
+target_bag=JLOOST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=U' B2 L2 U L F2 B2 R B2 D2 R2 B2 D F2 B2 R2 D L2
+MOVE 77451 128829 13 U' B2 L2 U L F2 B2 R B2 D2 R2 B2 D F2 B2 R2 D L2
+
+TRANSITION
+target_line=128830
+target_rotation=5
+target_identities=JOJOST
+target_bag=JJOOST
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=U L2 D' L2 U R2 D' B2 D F2 L' F2 D2 B2 R' U
+MOVE 77451 128830 5 U L2 D' L2 U R2 D' B2 D F2 L' F2 D2 B2 R' U
+
+TRANSITION
+target_line=128831
+target_rotation=12
+target_identities=JOOSJT
+target_bag=JJOOST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=L2 D2 L2 R2 F R2 F' R2 U2 F' R' U' R U' F R2 D' U
+MOVE 77451 128831 12 L2 D2 L2 R2 F R2 F' R2 U2 F' R' U' R U' F R2 D' U
+
+TRANSITION
+target_line=128832
+target_rotation=13
+target_identities=TSOJLO
+target_bag=JLOOST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=U2 R U2 R' U2 R2 F2 R' D2 L D' L2 D2 L2 D2 R2 U' R2
+MOVE 77451 128832 13 U2 R U2 R' U2 R2 F2 R' D2 L D' L2 D2 L2 D2 R2 U' R2
+
+TRANSITION
+target_line=128867
+target_rotation=12
+target_identities=JOOSLT
+target_bag=JLOOST
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=L2 U B2 D U2 F2 D' U2 F2 U' L' U2 L R' U2 F2 R'
+MOVE 77451 128867 12 L2 U B2 D U2 F2 D' U2 F2 U' L' U2 L R' U2 F2 R'
+
+TRANSITION
+target_line=128905
+target_rotation=5
+target_identities=JOOTJZ
+target_bag=JJOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=B2 L' U R' L' U' R2 B2 D' R U2 B' D2 R2 D2 R2 B' U2 L2 F2
+MOVE 77451 128905 5 B2 L' U R' L' U' R2 B2 D' R U2 B' D2 R2 D2 R2 B' U2 L2 F2
+
+TRANSITION
+target_line=128911
+target_rotation=5
+target_identities=JOOTZJ
+target_bag=JJOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=D2 R B2 R' U2 L' U' R2 U F2 D2 L2 B' L2 F' R2 B D2 F
+MOVE 77451 128911 5 D2 R B2 R' U2 L' U' R2 U F2 D2 L2 B' L2 F' R2 B D2 F
+
+TRANSITION
+target_line=128913
+target_rotation=5
+target_identities=JOLOTS
+target_bag=JLOOST
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=F2 R2 U2 R D2 F2 L D2 B2 L' D B2 L' B2 L' U2 L' D' R2
+MOVE 77451 128913 5 F2 R2 U2 R D2 F2 L D2 B2 L' D B2 L' B2 L' U2 L' D' R2
+
+TRANSITION
+target_line=128929
+target_rotation=5
+target_identities=JOOSTL
+target_bag=JLOOST
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=F2 U' R' U2 R U2 R D F2 R' L2 D2 R U2 D2 B2 R'
+MOVE 77451 128929 5 F2 U' R' U2 R U2 R D F2 R' L2 D2 R U2 D2 B2 R'
+
+TRANSITION
+target_line=129097
+target_rotation=13
+target_identities=TOOZJL
+target_bag=JLOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=R2 B' R2 B2 F' L2 B' U2 F L2 D' R F R' F' D U2 L2 U
+MOVE 77451 129097 13 R2 B' R2 B2 F' L2 B' U2 F L2 D' R F R' F' D U2 L2 U
+
+TRANSITION
+target_line=129099
+target_rotation=13
+target_identities=TOOZLL
+target_bag=LLOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=R F2 R D R' B2 L' D' L2 B2 U2 R' D2 L' D2 R' B2 D2
+MOVE 77451 129099 13 R F2 R D R' B2 L' D' L2 B2 U2 R' D2 L' D2 R' B2 D2
+
+TRANSITION
+target_line=129198
+target_rotation=13
+target_identities=TOOZLL
+target_bag=LLOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=B2 L U' R2 F2 U R2 U R2 L2 D2 L D2 L' U2 D2 F2 U2
+MOVE 77451 129198 13 B2 L U' R2 F2 U R2 U R2 L2 D2 L D2 L' U2 D2 F2 U2
+
+TRANSITION
+target_line=129208
+target_rotation=13
+target_identities=TOOZLL
+target_bag=LLOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=D L2 U L2 F2 D F2 R2 D' L U2 F2 U2 L D' L2
+MOVE 77451 129208 13 D L2 U L2 F2 D F2 R2 D' L U2 F2 U2 L D' L2
+
+TRANSITION
+target_line=129259
+target_rotation=0
+target_identities=JZLOOT
+target_bag=JLOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=U2 R D2 F2 D2 L' D2 L' R' D2 U B2 U' F2 U F2 L2 R2
+MOVE 77451 129259 0 U2 R D2 F2 D2 L' D2 L' R' D2 U B2 U' F2 U F2 L2 R2
+
+TRANSITION
+target_line=129260
+target_rotation=13
+target_identities=TSOOLL
+target_bag=LLOOST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=F2 U2 L2 U2 L2 D' B2 U' F2 U2 L' B2 F2 R' F2 R2 F2 D'
+MOVE 77451 129260 13 F2 U2 L2 U2 L2 D' B2 U' F2 U2 L' B2 F2 R' F2 R2 F2 D'
+
+TRANSITION
+target_line=129261
+target_rotation=0
+target_identities=JZOLOT
+target_bag=JLOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=L2 D2 U2 B' L2 R2 F' L2 R2 B' R D L2 R D L F2 L R2
+MOVE 77451 129261 0 L2 D2 U2 B' L2 R2 F' L2 R2 B' R D L2 R D L F2 L R2
+
+TRANSITION
+target_line=129263
+target_rotation=13
+target_identities=TSOLOL
+target_bag=LLOOST
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=F2 R2 D L2 U L2 B2 L2 R2 U2 R F2 U2 B2 L' F2 D
+MOVE 77451 129263 13 F2 R2 D L2 U L2 B2 L2 R2 U2 R F2 U2 B2 L' F2 D
+
+TRANSITION
+target_line=129274
+target_rotation=1
+target_identities=JOLZTO
+target_bag=JLOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=F2 R2 B2 D' F2 L2 U' L2 D2 U L' B2 F2 R D F2 U R2
+MOVE 77451 129274 1 F2 R2 B2 D' F2 L2 U' L2 D2 U L' B2 F2 R D F2 U R2
+
+TRANSITION
+target_line=129295
+target_rotation=13
+target_identities=JTOOZL
+target_bag=JLOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=B2 U' R L2 U2 D2 L U' B2 R2 U2 L2 U L2 F2 R2 D2
+MOVE 77451 129295 13 B2 U' R L2 U2 D2 L U' B2 R2 U2 L2 U L2 F2 R2 D2
+
+TRANSITION
+target_line=129296
+target_rotation=12
+target_identities=JSOOJT
+target_bag=JJOOST
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=L2 U2 B L2 B' U2 B2 D2 R2 F2 U R2 B2 U R' U' R' B D2 B'
+MOVE 77451 129296 12 L2 U2 B L2 B' U2 B2 D2 R2 F2 U R2 B2 U R' U' R' B D2 B'
+
+TRANSITION
+target_line=129338
+target_rotation=0
+target_identities=JZOJOT
+target_bag=JJOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=F2 R D L B2 R2 L U L' B2 R L U2 B2 R U2 R' D2
+MOVE 77451 129338 0 F2 R D L B2 R2 L U L' B2 R L U2 B2 R U2 R' D2
+
+TRANSITION
+target_line=129376
+target_rotation=4
+target_identities=JOJTOZ
+target_bag=JJOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=R2 F2 D2 R2 F2 D' B2 R2 U' F2 L U L D2 R' U' R' F2
+MOVE 77451 129376 4 R2 F2 D2 R2 F2 D' B2 R2 U' F2 L U L D2 R' U' R' F2
+
+TRANSITION
+target_line=129453
+target_rotation=12
+target_identities=JOSOJT
+target_bag=JJOOST
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=R2 F D2 F' L2 R2 U2 B L2 D2 L D2 B R' B U2 R' D' F2
+MOVE 77451 129453 12 R2 F D2 F' L2 R2 U2 B L2 D2 L D2 B R' B U2 R' D' F2
+
+TRANSITION
+target_line=129484
+target_rotation=13
+target_identities=TSOOJL
+target_bag=JLOOST
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=R2 F L2 B D2 F2 L2 B R2 F R' F' U B2 U' R F U' B2 U'
+MOVE 77451 129484 13 R2 F L2 B D2 F2 L2 B R2 F R' F' U B2 U' R F U' B2 U'
+
+TRANSITION
+target_line=133120
+target_rotation=13
+target_identities=TOOJJL
+target_bag=JJLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=B2 F2 R2 U F2 R2 D' U' B2 D' L' D2 B2 D2 L' D' F2
+MOVE 77451 133120 13 B2 F2 R2 U F2 R2 D' U' B2 D' L' D2 B2 D2 L' D' F2
+
+TRANSITION
+target_line=133121
+target_rotation=13
+target_identities=JTLJOO
+target_bag=JJLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=D2 B2 D' B2 R2 B2 D2 R2 D' F2 L' D2 U2 R U' R2 F2 U'
+MOVE 77451 133121 13 D2 B2 D' B2 R2 B2 D2 R2 D' F2 L' D2 U2 R U' R2 F2 U'
+
+TRANSITION
+target_line=133124
+target_rotation=13
+target_identities=TOLOLL
+target_bag=LLLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=U' L2 U B2 U R2 D R2 U2 B2 R D L2 R2 U' R
+MOVE 77451 133124 13 U' L2 U B2 U R2 D R2 U2 B2 R D L2 R2 U' R
+
+TRANSITION
+target_line=133217
+target_rotation=13
+target_identities=TOOLJL
+target_bag=JLLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=U2 B' U2 B L2 U2 L2 F2 U2 F' L' D2 R' D R2 D L' F' U R2
+MOVE 77451 133217 13 U2 B' U2 B L2 U2 L2 F2 U2 F' L' D2 R' D R2 D L' F' U R2
+
+TRANSITION
+target_line=133223
+target_rotation=12
+target_identities=JLOOJT
+target_bag=JJLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=R2 D2 F2 L2 B R2 F D2 B2 F' U' L B2 F2 R' F' D2 B' D2 F'
+MOVE 77451 133223 12 R2 D2 F2 L2 B R2 F D2 B2 F' U' L B2 F2 R' F' D2 B' D2 F'
+
+TRANSITION
+target_line=133295
+target_rotation=13
+target_identities=TLLJOO
+target_bag=JLLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=21
+moves=D2 U2 F U2 R2 F D2 F2 R2 B' R' F2 D2 F' L U B2 L' U R2 F'
+MOVE 77451 133295 13 D2 U2 F U2 R2 F D2 F2 R2 B' R' F2 D2 F' L U B2 L' U R2 F'
+
+TRANSITION
+target_line=133305
+target_rotation=13
+target_identities=TOOJLL
+target_bag=JLLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=U L2 D2 F2 D R2 F2 L2 B2 U2 R' U' L' B2 L U R'
+MOVE 77451 133305 13 U L2 D2 F2 D R2 F2 L2 B2 U2 R' U' L' B2 L U R'
+
+TRANSITION
+target_line=133375
+target_rotation=13
+target_identities=TLOOJL
+target_bag=JLLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=F2 U L2 U2 B2 F2 U F2 U2 F2 L B2 F2 R U B2
+MOVE 77451 133375 13 F2 U L2 U2 B2 F2 U F2 U2 F2 L B2 F2 R U B2
+
+TRANSITION
+target_line=133376
+target_rotation=1
+target_identities=JOLLTO
+target_bag=JLLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=L2 D' B' D F2 D B2 U' R2 F' B' U2 F' L2 U2 B U2 B2
+MOVE 77451 133376 1 L2 D' B' D F2 D B2 U' R2 F' B' U2 F' L2 U2 B U2 B2
+
+TRANSITION
+target_line=133377
+target_rotation=1
+target_identities=JOJJTO
+target_bag=JJJOOT
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=R2 U2 F2 U2 R2 D2 F2 R2 B2 R2 D' B2 L2 U R2 B2 R2
+MOVE 77451 133377 1 R2 U2 F2 U2 R2 D2 F2 R2 B2 R2 D' B2 L2 U R2 B2 R2
+
+TRANSITION
+target_line=133399
+target_rotation=0
+target_identities=JOLLOT
+target_bag=JLLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=F2 U' D2 R F2 D2 F2 R' D' F2 L2 F2 R2 U2 L2 B2 D2
+MOVE 77451 133399 0 F2 U' D2 R F2 D2 F2 R' D' F2 L2 F2 R2 U2 L2 B2 D2
+
+TRANSITION
+target_line=133400
+target_rotation=13
+target_identities=TLOLOL
+target_bag=LLLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=F' R2 F' R2 D2 F' D2 F D2 F U' R' D L' D U2 R D' L
+MOVE 77451 133400 13 F' R2 F' R2 D2 F' D2 F D2 F U' R' D L' D U2 R D' L
+
+TRANSITION
+target_line=133401
+target_rotation=13
+target_identities=TOLJLO
+target_bag=JLLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=15
+moves=R' F2 D F2 B2 U R B2 U2 R2 U2 R' U2 R B2
+MOVE 77451 133401 13 R' F2 D F2 B2 U R B2 U2 R2 U2 R' U2 R B2
+
+TRANSITION
+target_line=133402
+target_rotation=5
+target_identities=JOJLOT
+target_bag=JJLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=L2 B2 U' B2 U' F2 U' B2 F2 L2 R U2 F2 U2 R U' F2
+MOVE 77451 133402 5 L2 B2 U' B2 U' F2 U' B2 F2 L2 R U2 F2 U2 R U' F2
+
+TRANSITION
+target_line=133429
+target_rotation=13
+target_identities=TOOLLL
+target_bag=LLLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=L2 U' R2 U2 L2 D R2 B2 D U2 L' B2 F2 R' D2 F2 D R2
+MOVE 77451 133429 13 L2 U' R2 U2 L2 D R2 B2 D U2 L' B2 F2 R' D2 F2 D R2
+
+TRANSITION
+target_line=133435
+target_rotation=13
+target_identities=TOOJLJ
+target_bag=JJLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=21
+moves=F R2 U2 B2 U2 B D2 F2 R2 B' D L' F L2 R2 D2 U2 B' D R U2
+MOVE 77451 133435 13 F R2 U2 B2 U2 B D2 F2 R2 B' D L' F L2 R2 D2 U2 B' D R U2
+
+TRANSITION
+target_line=133454
+target_rotation=13
+target_identities=TJOOLL
+target_bag=JLLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=F2 R U' B2 L2 D R2 U' L' F2 U2 F2 B2 L2 F2 L' B2
+MOVE 77451 133454 13 F2 R U' B2 L2 D R2 U' L' F2 U2 F2 B2 L2 F2 L' B2
+
+TRANSITION
+target_line=133556
+target_rotation=5
+target_identities=JOOTJJ
+target_bag=JJJOOT
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=R2 F2 R2 B2 R2 D' R2 U' L' F2 R2 B2 D2 R' D2 L2 B2 L
+MOVE 77451 133556 5 R2 F2 R2 B2 R2 D' R2 U' L' F2 R2 B2 D2 R' D2 L2 B2 L
+
+TRANSITION
+target_line=133562
+target_rotation=5
+target_identities=JOLOTL
+target_bag=JLLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=F R2 U2 F U2 L2 B2 L2 F D2 U L2 D' R2 U R' U2 R' D2
+MOVE 77451 133562 5 F R2 U2 F U2 L2 B2 L2 F D2 U L2 D' R2 U R' U2 R' D2
+
+TRANSITION
+target_line=133594
+target_rotation=12
+target_identities=JJOJTO
+target_bag=JJJOOT
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=L B2 D' L' D2 R D' B2 L U2 B2 R2 U2 L2 D2 B2 R2 B2 L2
+MOVE 77451 133594 12 L B2 D' L' D2 R D' B2 L U2 B2 R2 U2 L2 D2 B2 R2 B2 L2
+
+TRANSITION
+target_line=133625
+target_rotation=13
+target_identities=TOLLOL
+target_bag=LLLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=R2 D' F2 L2 D2 R2 D2 F2 R2 U L' B2 U2 F2 R D'
+MOVE 77451 133625 13 R2 D' F2 L2 D2 R2 D2 F2 R2 U L' B2 U2 F2 R D'
+
+TRANSITION
+target_line=133626
+target_rotation=13
+target_identities=TOLOJL
+target_bag=JLLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=F2 D R' F2 B2 L' D R2 L2 D L2 F2 B2 D' R2 B2
+MOVE 77451 133626 13 F2 D R' F2 B2 L' D R2 L2 D L2 F2 B2 D' R2 B2
+
+TRANSITION
+target_line=133627
+target_rotation=13
+target_identities=TOOLLL
+target_bag=LLLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=B2 L' U2 L' B2 U2 R U2 L B2 D' L' U2 R' U R' U' F2 R'
+MOVE 77451 133627 13 B2 L' U2 L' B2 U2 R U2 L B2 D' L' U2 R' U R' U' F2 R'
+
+TRANSITION
+target_line=133810
+target_rotation=13
+target_identities=TOOJJL
+target_bag=JJLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=B2 L2 B' D2 R2 U2 L2 F R2 U R B2 R U2 L' D L' F2 U'
+MOVE 77451 133810 13 B2 L2 B' D2 R2 U2 L2 F R2 U R B2 R U2 L' D L' F2 U'
+
+TRANSITION
+target_line=133839
+target_rotation=13
+target_identities=TOOLJL
+target_bag=JLLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=U B2 D L2 D2 B2 D' F2 U' B2 L' U2 F2 U2 L' U B2
+MOVE 77451 133839 13 U B2 D L2 D2 B2 D' F2 U' B2 L' U2 F2 U2 L' U B2
+
+TRANSITION
+target_line=133995
+target_rotation=13
+target_identities=TOOJLL
+target_bag=JLLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=B2 L2 B' R2 F L2 B' D2 F R B2 U L2 R2 U2 F2 D' B2 L'
+MOVE 77451 133995 13 B2 L2 B' R2 F L2 B' D2 F R B2 U L2 R2 U2 F2 D' B2 L'
+
+TRANSITION
+target_line=134092
+target_rotation=12
+target_identities=JJOTLO
+target_bag=JJLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=F2 U L2 U R2 D F2 L2 F2 D2 R' B2 F2 L' F2 U' L2 U'
+MOVE 77451 134092 12 F2 U L2 U R2 D F2 L2 F2 D2 R' B2 F2 L' F2 U' L2 U'
+
+TRANSITION
+target_line=134146
+target_rotation=12
+target_identities=JJOOTL
+target_bag=JJLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=15
+moves=D L2 R2 B2 D R2 U L2 D2 R D2 F2 D2 R' F2
+MOVE 77451 134146 12 D L2 R2 B2 D R2 U L2 D2 R D2 F2 D2 R' F2
+
+TRANSITION
+target_line=134158
+target_rotation=1
+target_identities=JOLJTO
+target_bag=JJLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=D2 B2 L2 U' F2 D' B2 D2 L2 F2 R D2 B2 U2 L' U
+MOVE 77451 134158 1 D2 B2 L2 U' F2 D' B2 D2 L2 F2 R D2 B2 U2 L' U
+
+TRANSITION
+target_line=134273
+target_rotation=13
+target_identities=JTOOJL
+target_bag=JJLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=U F2 D' R2 F2 U B2 D' R2 U2 L' B2 F2 R' U' B2 U2
+MOVE 77451 134273 13 U F2 D' R2 F2 U B2 D' R2 U2 L' B2 F2 R' U' B2 U2
+
+TRANSITION
+target_line=134274
+target_rotation=12
+target_identities=JLOOJT
+target_bag=JJLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=U R2 L U2 F2 U2 L U' L2 U' R2 D B2 D' B2 U2 R2
+MOVE 77451 134274 12 U R2 L U2 F2 U2 L U' L2 U' R2 D B2 D' B2 U2 R2
+
+TRANSITION
+target_line=134300
+target_rotation=12
+target_identities=JJOOTJ
+target_bag=JJJOOT
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=F' L2 B R2 D2 F D2 B' F' R U R B' U B R D B2 R
+MOVE 77451 134300 12 F' L2 B R2 D2 F D2 B' F' R U R B' U B R D B2 R
+
+TRANSITION
+target_line=134401
+target_rotation=4
+target_identities=JOJTOJ
+target_bag=JJJOOT
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=D2 B2 L2 U' F2 D' B2 D2 L2 F2 R D2 B2 U2 L' D' U
+MOVE 77451 134401 4 D2 B2 L2 U' F2 D' B2 D2 L2 F2 R D2 B2 U2 L' D' U
+
+TRANSITION
+target_line=134594
+target_rotation=12
+target_identities=JOLOJT
+target_bag=JJLOOT
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=R F L' F2 U' R' F' U D2 F2 R B2 L' F2 R' B2 D2 R'
+MOVE 77451 134594 12 R F L' F2 U' R' F' U D2 F2 R B2 L' F2 R' B2 D2 R'
+
+TRANSITION
+target_line=144656
+target_rotation=13
+target_identities=JTOZOO
+target_bag=JOOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=D F2 L2 F2 D' B2 D2 B2 F2 D L D2 U2 R D' F2 U2
+MOVE 77451 144656 13 D F2 L2 F2 D' B2 D2 B2 F2 D L D2 U2 R D' F2 U2
+
+TRANSITION
+target_line=144669
+target_rotation=12
+target_identities=JOOSOT
+target_bag=JOOOST
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=B2 R2 B2 U L2 R2 F2 U L2 D' L B2 F2 R U F2 R2
+MOVE 77451 144669 12 B2 R2 B2 U L2 R2 F2 U L2 D' L B2 F2 R U F2 R2
+
+TRANSITION
+target_line=144672
+target_rotation=13
+target_identities=TLOZOO
+target_bag=LOOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=R2 D2 U2 R U2 L U2 R2 F2 R' U' B2 F2 L2 D2 R' D B2 D2
+MOVE 77451 144672 13 R2 D2 U2 R U2 L U2 R2 F2 R' U' B2 F2 L2 D2 R' D B2 D2
+
+TRANSITION
+target_line=144674
+target_rotation=13
+target_identities=TOOSOL
+target_bag=LOOOST
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=L2 R2 U L2 F2 D' U' L2 U' F2 R D2 U2 L' U' F2 D' R2
+MOVE 77451 144674 13 L2 R2 U L2 F2 D' U' L2 U' F2 R D2 U2 L' U' F2 D' R2
+
+TRANSITION
+target_line=144683
+target_rotation=13
+target_identities=TLOOOS
+target_bag=LOOOST
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=L' F2 L' D2 R2 U2 B2 L B2 L D R D' L R2 D L U R2
+MOVE 77451 144683 13 L' F2 L' D2 R2 U2 B2 L B2 L D R D' L R2 D L U R2
+
+TRANSITION
+target_line=144686
+target_rotation=13
+target_identities=JTOOOS
+target_bag=JOOOST
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=B D2 R2 D2 F R2 F2 U2 F R' U' B R2 B D L B U' F2
+MOVE 77451 144686 13 B D2 R2 D2 F R2 F2 U2 F R' U' B R2 B D L B U' F2
+
+TRANSITION
+target_line=144693
+target_rotation=13
+target_identities=TOOOZL
+target_bag=LOOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=L2 R D2 F2 R B2 U2 B2 R2 D' R' D U' R2 U F2 D' R'
+MOVE 77451 144693 13 L2 R D2 F2 R B2 U2 B2 R2 D' R' D U' R2 U F2 D' R'
+
+TRANSITION
+target_line=144695
+target_rotation=12
+target_identities=JOOOZT
+target_bag=JOOOTZ
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=R2 U2 B2 L2 D' F2 R2 U R2 U' L B2 F2 R U F2 D2 R2 U'
+MOVE 77451 144695 12 R2 U2 B2 L2 D' F2 R2 U R2 U' L B2 F2 R U F2 D2 R2 U'
+
+TRANSITION
+target_line=145854
+target_rotation=13
+target_identities=TOOOLL
+target_bag=LLOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=15
+moves=B2 U2 F2 R2 D U' R2 F2 D' L' B2 F2 R' D' F2
+MOVE 77451 145854 13 B2 U2 F2 R2 D U' R2 F2 D' L' B2 F2 R' D' F2
+
+TRANSITION
+target_line=145873
+target_rotation=13
+target_identities=TOOOJL
+target_bag=JLOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=R2 U R2 B2 F2 U2 F2 D R2 D2 R D2 U2 L' B2 R2 D' F2
+MOVE 77451 145873 13 R2 U R2 B2 F2 U2 F2 D R2 D2 R D2 U2 L' B2 R2 D' F2
+
+TRANSITION
+target_line=145874
+target_rotation=4
+target_identities=JOJTOO
+target_bag=JJOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=B F U2 R2 F L2 D2 U2 R2 F D L D2 U2 R D' F2 U2
+MOVE 77451 145874 4 B F U2 R2 F L2 D2 U2 R2 F D L D2 U2 R D' F2 U2
+
+TRANSITION
+target_line=145875
+target_rotation=13
+target_identities=TOOOJL
+target_bag=JLOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=R2 U' F2 R2 D2 L2 D R2 F2 R U2 F2 D2 L' D' F2
+MOVE 77451 145875 13 R2 U' F2 R2 D2 L2 D R2 F2 R U2 F2 D2 L' D' F2
+
+TRANSITION
+target_line=145876
+target_rotation=13
+target_identities=TOOOJL
+target_bag=JLOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=U2 L2 U R D R2 L2 U' F2 R F2 L U2 L' F2 L' U2 L'
+MOVE 77451 145876 13 U2 L2 U R D R2 L2 U' F2 R F2 L U2 L' F2 L' U2 L'
+
+TRANSITION
+target_line=145877
+target_rotation=13
+target_identities=JTOJOO
+target_bag=JJOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=F' U2 F' D R B' L' D L F' R2 U2 B2 L2 U2 B' R2 U2 F2
+MOVE 77451 145877 13 F' U2 F' D R B' L' D L F' R2 U2 B2 L2 U2 B' R2 U2 F2
+
+TRANSITION
+target_line=145881
+target_rotation=1
+target_identities=JOLOTO
+target_bag=JLOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=B2 R2 B2 U2 L2 F2 D2 L2 B2 R2 D R' D2 U2 L' D' B2 D'
+MOVE 77451 145881 1 B2 R2 B2 U2 L2 F2 D2 L2 B2 R2 D R' D2 U2 L' D' B2 D'
+
+TRANSITION
+target_line=145882
+target_rotation=13
+target_identities=TOOLOL
+target_bag=LLOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=R F2 U2 F2 L' D2 F2 U2 R B2 D' F2 R' U' R U2 L2 U' R'
+MOVE 77451 145882 13 R F2 U2 F2 L' D2 F2 U2 R B2 D' F2 R' U' R U2 L2 U' R'
+
+TRANSITION
+target_line=145883
+target_rotation=13
+target_identities=TOLOOL
+target_bag=LLOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=B2 U R2 D R2 U2 B2 R2 D' L2 R' D L2 R2 U' R U
+MOVE 77451 145883 13 B2 U R2 D R2 U2 B2 R2 D' L2 R' D L2 R2 U' R U
+
+TRANSITION
+target_line=145930
+target_rotation=5
+target_identities=JOOOTJ
+target_bag=JJOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=R D2 F2 L' F2 L' F2 D B2 R' U2 R' U2 B2 R L2 U2 R2
+MOVE 77451 145930 5 R D2 F2 L' F2 L' F2 D B2 R' U2 R' U2 B2 R L2 U2 R2
+
+TRANSITION
+target_line=145931
+target_rotation=5
+target_identities=JOOTJO
+target_bag=JJOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=R2 F2 L2 B' U2 R2 F D2 F2 U' L B' U' B' L F' D2 F2
+MOVE 77451 145931 5 R2 F2 L2 B' U2 R2 F D2 F2 U' L B' U' B' L F' D2 F2
+
+TRANSITION
+target_line=145942
+target_rotation=12
+target_identities=JOOOJT
+target_bag=JJOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=B2 L' B2 U B2 L U' R2 D L2 F D2 R2 U2 L2 B U2 R2 F2
+MOVE 77451 145942 12 B2 L' B2 U B2 L U' R2 D L2 F D2 R2 U2 L2 B U2 R2 F2
+
+TRANSITION
+target_line=145972
+target_rotation=13
+target_identities=TLOJOO
+target_bag=JLOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=U D2 B' L B' D L' U R2 D F2 L2 F2 D2 R2 F' R2 F R2 L2
+MOVE 77451 145972 13 U D2 B' L B' D L' U R2 D F2 L2 F2 D2 R2 F' R2 F R2 L2
+
+TRANSITION
+target_line=145975
+target_rotation=13
+target_identities=TOOOLL
+target_bag=LLOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=L2 B2 U' R2 F2 D L2 D L2 F2 L' F2 D2 F2 L' D F2
+MOVE 77451 145975 13 L2 B2 U' R2 F2 D L2 D L2 F2 L' F2 D2 F2 L' D F2
+
+TRANSITION
+target_line=146009
+target_rotation=1
+target_identities=JOJOTO
+target_bag=JJOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=D2 L2 R' U2 L' F2 R U2 F2 L D L' U' F2 U' L' D2 R'
+MOVE 77451 146009 1 D2 L2 R' U2 L' F2 R U2 F2 L D L' U' F2 U' L' D2 R'
+
+TRANSITION
+target_line=146025
+target_rotation=1
+target_identities=JOLOTO
+target_bag=JLOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=U2 L2 B' D2 L2 F2 D2 F' U2 F D U2 B' U2 F' L2 F'
+MOVE 77451 146025 1 U2 L2 B' D2 L2 F2 D2 F' U2 F D U2 B' U2 F' L2 F'
+
+TRANSITION
+target_line=146026
+target_rotation=0
+target_identities=JOLOOT
+target_bag=JLOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=L2 F' D2 R2 D2 R2 F' L2 U' R D R B2 D' R' D' R'
+MOVE 77451 146026 0 L2 F' D2 R2 D2 R2 F' L2 U' R D R B2 D' R' D' R'
+
+TRANSITION
+target_line=146027
+target_rotation=13
+target_identities=TLOOOL
+target_bag=LLOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=B2 U R' U2 D2 L B2 U' F2 D2 L2 U F2 B2 D2 B2
+MOVE 77451 146027 13 B2 U R' U2 D2 L B2 U' F2 D2 L2 U F2 B2 D2 B2
+
+TRANSITION
+target_line=146028
+target_rotation=13
+target_identities=TLOOOL
+target_bag=LLOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=F2 U R2 D2 B2 F2 D B2 D2 B2 R D2 U2 L' R2 U B2
+MOVE 77451 146028 13 F2 U R2 D2 B2 F2 D B2 D2 B2 R D2 U2 L' R2 U B2
+
+TRANSITION
+target_line=146029
+target_rotation=1
+target_identities=JOOLTO
+target_bag=JLOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=L F2 U2 L' D2 L' B2 D F2 L F2 R D2 L' D2 B2 U2 F2
+MOVE 77451 146029 1 L F2 U2 L' D2 L' B2 D F2 L F2 R D2 L' D2 B2 U2 F2
+
+TRANSITION
+target_line=146030
+target_rotation=13
+target_identities=TOOJLO
+target_bag=JLOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=D' U B2 R2 U' B2 D' B2 L2 U2 L' B2 F2 R' U B2 U'
+MOVE 77451 146030 13 D' U B2 R2 U' B2 D' B2 L2 U2 L' B2 F2 R' U B2 U'
+
+TRANSITION
+target_line=146031
+target_rotation=5
+target_identities=JOJOOT
+target_bag=JJOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=R2 B2 D2 U2 R2 B2 R' U2 F2 D R D L D' R2 U R F2
+MOVE 77451 146031 5 R2 B2 D2 U2 R2 B2 R' U2 F2 D R D L D' R2 U R F2
+
+TRANSITION
+target_line=146032
+target_rotation=1
+target_identities=JOOJTO
+target_bag=JJOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=B D2 L2 B' R2 B U2 B R2 F' U' L' B' L F' R2 B F'
+MOVE 77451 146032 1 B D2 L2 B' R2 B U2 B R2 F' U' L' B' L F' R2 B F'
+
+TRANSITION
+target_line=146038
+target_rotation=13
+target_identities=JTOOOL
+target_bag=JLOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=D2 U2 L2 B2 L B2 R2 U2 B2 L2 U B2 F2 D L' R2 U'
+MOVE 77451 146038 13 D2 U2 L2 B2 L B2 R2 U2 B2 L2 U B2 F2 D L' R2 U'
+
+TRANSITION
+target_line=146041
+target_rotation=13
+target_identities=TOOOLJ
+target_bag=JLOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=L2 U L2 D B2 D' B2 F2 L2 U' L D2 U2 R U' F2 D L2 U'
+MOVE 77451 146041 13 L2 U L2 D B2 D' B2 F2 L2 U' L D2 U2 R U' F2 D L2 U'
+
+TRANSITION
+target_line=146050
+target_rotation=13
+target_identities=TOOLLO
+target_bag=LLOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=D' L D2 L' U2 D2 F2 R' U R B2 L U2 R' D2 F2 R L B2
+MOVE 77451 146050 13 D' L D2 L' U2 D2 F2 R' U R B2 L U2 R' D2 F2 R L B2
+
+TRANSITION
+target_line=146056
+target_rotation=13
+target_identities=TOOOLL
+target_bag=LLOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=U2 B2 L' R' U2 R' B2 F2 R' F2 U' L2 U R2 B2 U F2 U' R2
+MOVE 77451 146056 13 U2 B2 L' R' U2 R' B2 F2 R' F2 U' L2 U R2 B2 U F2 U' R2
+
+TRANSITION
+target_line=146057
+target_rotation=13
+target_identities=TOOJLO
+target_bag=JLOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=F D2 R2 F2 L' F B' R2 L2 D' L2 U2 R2 B U2 R2 B2 R2 B' L2
+MOVE 77451 146057 13 F D2 R2 F2 L' F B' R2 L2 D' L2 U2 R2 B U2 R2 B2 R2 B' L2
+
+TRANSITION
+target_line=146064
+target_rotation=13
+target_identities=TOOOLL
+target_bag=LLOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=F2 R U' B2 L2 U F2 D' R2 L F2 L2 B2 L U2 F2 D2 B2
+MOVE 77451 146064 13 F2 R U' B2 L2 U F2 D' R2 L F2 L2 B2 L U2 F2 D2 B2
+
+TRANSITION
+target_line=146095
+target_rotation=5
+target_identities=JOOOTL
+target_bag=JLOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=B2 R' D2 R U2 R' F2 U2 R U' B2 U L' R' D R' F2 L2
+MOVE 77451 146095 5 B2 R' D2 R U2 R' F2 U2 R U' B2 U L' R' D R' F2 L2
+
+TRANSITION
+target_line=146097
+target_rotation=5
+target_identities=JOLOTO
+target_bag=JLOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=16
+moves=R2 U R2 U' L2 F2 D' R2 U L' B2 U2 F2 R U2 L2
+MOVE 77451 146097 5 R2 U R2 U' L2 F2 D' R2 U L' B2 U2 F2 R U2 L2
+
+TRANSITION
+target_line=146231
+target_rotation=12
+target_identities=JOOOJT
+target_bag=JJOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=19
+moves=U F2 B D' B U' L' D L B2 D2 F2 R2 D2 F' R2 B R2 F
+MOVE 77451 146231 12 U F2 B D' B U' L' D L B2 D2 F2 R2 D2 F' R2 B R2 F
+
+TRANSITION
+target_line=147911
+target_rotation=13
+target_identities=JTOOOO
+target_bag=JOOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=B R' U' F U2 F' R B D2 R' U2 R2 F2 R' D2 L B2
+MOVE 77451 147911 13 B R' U' F U2 F' R B D2 R' U2 R2 F2 R' D2 L B2
+
+TRANSITION
+target_line=147912
+target_rotation=13
+target_identities=TLOOOO
+target_bag=LOOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=17
+moves=R2 F' D2 L2 F R2 U2 B2 U' L D L2 D2 U B D L2
+MOVE 77451 147912 13 R2 F' D2 L2 F R2 U2 B2 U' L D L2 D2 U B D L2
+
+TRANSITION
+target_line=147913
+target_rotation=12
+target_identities=JOOOOT
+target_bag=JOOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=L' U2 R F2 R2 D2 U2 R B2 L2 D B2 R' B2 R F2 U2 R
+MOVE 77451 147913 12 L' U2 R F2 R2 D2 U2 R B2 L2 D B2 R' B2 R F2 U2 R
+
+TRANSITION
+target_line=147917
+target_rotation=13
+target_identities=TOOOOL
+target_bag=LOOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=R2 L2 B2 U' L U2 D2 R L2 F2 D' R2 U F2 D2 F2 R2 D'
+MOVE 77451 147917 13 R2 L2 B2 U' L U2 D2 R L2 F2 D' R2 U F2 D2 F2 R2 D'
+
+TRANSITION
+target_line=147922
+target_rotation=13
+target_identities=TLOOOO
+target_bag=LOOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=20
+moves=D2 F R2 U2 L2 D2 B' U2 B2 D2 U' L R2 D' L' U R D L' R'
+MOVE 77451 147922 13 D2 F R2 U2 L2 D2 B' U2 B2 D2 U' L R2 D' L' U R D L' R'
+
+TRANSITION
+target_line=147923
+target_rotation=13
+target_identities=JTOOOO
+target_bag=JOOOOT
+target_one_of_each=false
+cross_bag=true
+move_count=18
+moves=D L2 R2 D B2 U L2 R2 U' L2 R B2 F2 L' F2 R2 D2 U'
+MOVE 77451 147923 13 D L2 R2 D B2 U L2 R2 U' L2 R B2 F2 L' F2 R2 D2 U'
+
+SUMMARY
+reachable=301
+unreachable=1088
+reachable_one_of_each=11
+cross_bag=290
+distinct_reachable_bags=75
+REACHABLE_BAGS
+JJJJOT 1
+JJJLOT 2
+JJJLTZ 2
+JJJOOT 5
+JJJOST 3
+JJJOTZ 5
+JJJSTZ 2
+JJLLOT 6
+JJLLST 2
+JJLLTZ 2
+JJLOOT 12
+JJLOST 11
+JJLOTZ 6
+JJLSST 2
+JJLSTZ 1
+JJLTZZ 2
+JJOOOT 9
+JJOOST 6
+JJOOTZ 11
+JJOSST 4
+JJOSTZ 3
+JJOTZZ 5
+JJSSST 1
+JJSSTZ 1
+JJSTZZ 2
+JLLLOT 2
+JLLLST 2
+JLLOOT 12
+JLLOST 6
+JLLOTZ 11
+JLLSST 2
+JLLSTZ 1
+JLLTZZ 2
+JLOOOT 14
+JLOOST 14
+JLOOTZ 14
+JLOSST 5
+JLOSTZ 11
+JLOTZZ 5
+JLSSST 2
+JLSSTZ 1
+JLSTZZ 1
+JLTZZZ 2
+JOOOOT 3
+JOOOST 2
+JOOOTZ 2
+JOOSST 2
+JOOSTZ 1
+JOSSTZ 2
+JSSSST 1
+JSSTZZ 1
+JTZZZZ 1
+LLLLOT 1
+LLLOOT 5
+LLLOST 5
+LLLOTZ 3
+LLLSTZ 2
+LLOOOT 9
+LLOOST 11
+LLOOTZ 6
+LLOSST 5
+LLOSTZ 3
+LLOTZZ 4
+LLSSTZ 2
+LLSTZZ 1
+LLTZZZ 1
+LOOOOT 3
+LOOOST 2
+LOOOTZ 2
+LOOSTZ 1
+LOOTZZ 2
+LOSTZZ 2
+LSSSST 1
+LSSTZZ 1
+LTZZZZ 1
+END_ROOT
